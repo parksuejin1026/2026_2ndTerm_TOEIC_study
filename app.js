@@ -42,10 +42,11 @@ function dashboard(){
  $('resume-list').replaceChildren();$('resume-panel').hidden=!resumable.length;
  for(const title of resumable){const saved=state.sessions[title],b=document.createElement('button');b.textContent=`${title} 이어 풀기 · ${saved.position+1}/${saved.ids.length}`;b.onclick=()=>resume(title);$('resume-list').append(b);}
  $('weeks').innerHTML='';
- const names={2:'어휘와 전치사의 연결',3:'토익 기본 어휘',4:'채용과 업무',5:'사무실과 직장 생활',6:'주차별 핵심 어휘',7:'주차별 핵심 어휘'};
- for(let week=2;week<=7;week++){
+ const names={2:'어휘와 전치사의 연결',3:'토익 기본 어휘',4:'채용과 업무',5:'사무실과 직장 생활',6:'주차별 핵심 어휘',7:'주차별 핵심 어휘',9:'주문과 환불',10:'교통과 배송',11:'여행과 출장',12:'은행과 회계',13:'금융과 경제',14:'공연·건설·환경·건강'};
+ const weeks=[...new Set(QUESTIONS.map(q=>q.week))].sort((a,b)=>a-b);
+ for(const week of weeks){
   const all=QUESTIONS.filter(q=>q.week===week),active=all.filter(q=>!record(q.id).mastered),done=all.filter(q=>record(q.id).mastered).length;
-  const b=document.createElement('button');b.className='week-card';b.innerHTML=`<span class="number">WEEK ${String(week).padStart(2,'0')}</span><span class="arrow">↗</span><h3>${week}주차</h3><p>${names[week]}</p><p>예문 ${all.length}개 · ${all.length}문항</p><p>학습 가능 ${active.length} · 암기 완료 ${done}</p><div class="mini-progress"><i style="width:${done/all.length*100}%"></i></div>`;
+  const b=document.createElement('button');b.className='week-card';b.innerHTML=`<span class="number">WEEK ${String(week).padStart(2,'0')}</span><span class="arrow">↗</span><h3>${week}주차</h3><p>${names[week]||'주차별 핵심 어휘'}</p><p>예문 ${all.length}개 · ${all.length}문항</p><p>학습 가능 ${active.length} · 암기 완료 ${done}</p><div class="mini-progress"><i style="width:${done/all.length*100}%"></i></div>`;
   b.onclick=()=>start(active,`${week}주차 학습`,false);$('weeks').append(b);
  }
 }

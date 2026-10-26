@@ -1,7 +1,7 @@
 """Keep teaching targets, join split underlines, and group discontinuous phrases.
 
 Week 3 explanatory glosses are filtered by extract.py using the PDF's blue
-teaching underlines. Do not apply that color rule to weeks 4-7.
+teaching underlines. Do not apply that color rule to weeks 4-7 or 9-14.
 """
 import hashlib
 from itertools import groupby
@@ -23,6 +23,7 @@ PHRASES = {
     'were … satisfied with': ('were', 'satisfied with'),
     'call a meeting': ('call', 'meeting'),
     'suit … needs': ('suit', "customer's needs"),
+    'made … withdrawal': ('made', 'withdrawal'),
 }
 
 GROUP_MEANINGS = {
@@ -41,6 +42,7 @@ GROUP_MEANINGS = {
     'were … satisfied with': '~에 만족했다 (be satisfied with)',
     'call a meeting': '회의를 소집하다',
     'suit … needs': '~의 요구를 충족시키다 (suit someone\'s needs)',
+    'made … withdrawal': '인출했다 (make a withdrawal)',
     "bachelor's degree": '학사 학위',
     'resume and cover letter': '이력서와 자기소개서',
 }

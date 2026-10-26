@@ -9942,5 +9942,8215 @@
         "end": 59
       }
     ]
+  },
+  {
+    "id": "w9l1p6-5cbe83e03dd6",
+    "week": 9,
+    "lesson": 1,
+    "page": 6,
+    "file": "초급토익어휘_09주_1교시.pdf",
+    "sentence": "For international shipments, there may be an extra surcharge for faster  delivery.",
+    "answer": "international shipments … surcharge",
+    "start": 4,
+    "end": 60,
+    "meaning": "국제 배송, 해외 배송 / 추가 요금",
+    "translation": "해외배송의경우/ 추가요금이발생할수있습니다. / 더빠른배송을위해",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 27
+      },
+      {
+        "start": 51,
+        "end": 60
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "international shipments",
+        "meaning": "국제 배송, 해외 배송",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 27
+          }
+        ],
+        "start": 4,
+        "end": 27
+      },
+      {
+        "answer": "surcharge",
+        "meaning": "추가 요금",
+        "blanks": [
+          {
+            "start": 51,
+            "end": 60
+          }
+        ],
+        "start": 51,
+        "end": 60
+      }
+    ]
+  },
+  {
+    "id": "w9l1p6-09a4700667f7",
+    "week": 9,
+    "lesson": 1,
+    "page": 6,
+    "file": "초급토익어휘_09주_1교시.pdf",
+    "sentence": "To save time and effort, I prefer placing online orders for various items.",
+    "answer": "placing online orders",
+    "start": 34,
+    "end": 55,
+    "meaning": "온라인으로 주문하는 것",
+    "translation": "시간과노력을절약하기위해/ 나는온라인으로주문하는것을선호합니다. / 다양한품목을",
+    "blanks": [
+      {
+        "start": 34,
+        "end": 55
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "placing online orders",
+        "meaning": "온라인으로 주문하는 것",
+        "blanks": [
+          {
+            "start": 34,
+            "end": 55
+          }
+        ],
+        "start": 34,
+        "end": 55
+      }
+    ]
+  },
+  {
+    "id": "w9l1p7-9959aef4c3f6",
+    "week": 9,
+    "lesson": 1,
+    "page": 7,
+    "file": "초급토익어휘_09주_1교시.pdf",
+    "sentence": "The company offers a fee waiver for orders exceeding a certain amount.",
+    "answer": "fee waiver",
+    "start": 21,
+    "end": 31,
+    "meaning": "수수료 면제",
+    "translation": "회사에서는수수료를면제해드리고있습니다. / 일정금액이상주문시/",
+    "blanks": [
+      {
+        "start": 21,
+        "end": 31
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "fee waiver",
+        "meaning": "수수료 면제",
+        "blanks": [
+          {
+            "start": 21,
+            "end": 31
+          }
+        ],
+        "start": 21,
+        "end": 31
+      }
+    ]
+  },
+  {
+    "id": "w9l1p7-e4e45452aa47",
+    "week": 9,
+    "lesson": 1,
+    "page": 7,
+    "file": "초급토익어휘_09주_1교시.pdf",
+    "sentence": "I placed an online order for the bulk purchase at wholesale prices.",
+    "answer": "placed an online order",
+    "start": 2,
+    "end": 24,
+    "meaning": "온라인으로 주문했다",
+    "translation": "나는대량으로온라인주문을했습니다. / 도매가로",
+    "blanks": [
+      {
+        "start": 2,
+        "end": 24
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "placed an online order",
+        "meaning": "온라인으로 주문했다",
+        "blanks": [
+          {
+            "start": 2,
+            "end": 24
+          }
+        ],
+        "start": 2,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "id": "w9l1p9-49c70415da18",
+    "week": 9,
+    "lesson": 1,
+    "page": 9,
+    "file": "초급토익어휘_09주_1교시.pdf",
+    "sentence": "The product you're interested in is currently in stock and ready for  dispatch.",
+    "answer": "in stock … dispatch",
+    "start": 46,
+    "end": 78,
+    "meaning": "재고가 있는 / 발송하다; 발송",
+    "translation": "귀하가관심을갖고있는제품은/ 현재재고가있으며/ 배송준비가되어있습니다.",
+    "blanks": [
+      {
+        "start": 46,
+        "end": 54
+      },
+      {
+        "start": 70,
+        "end": 78
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "in stock",
+        "meaning": "재고가 있는",
+        "blanks": [
+          {
+            "start": 46,
+            "end": 54
+          }
+        ],
+        "start": 46,
+        "end": 54
+      },
+      {
+        "answer": "dispatch",
+        "meaning": "발송하다; 발송",
+        "blanks": [
+          {
+            "start": 70,
+            "end": 78
+          }
+        ],
+        "start": 70,
+        "end": 78
+      }
+    ]
+  },
+  {
+    "id": "w9l1p9-c7fc4e522334",
+    "week": 9,
+    "lesson": 1,
+    "page": 9,
+    "file": "초급토익어휘_09주_1교시.pdf",
+    "sentence": "Hurry up and grab this amazing bargain before it sells out!",
+    "answer": "bargain",
+    "start": 31,
+    "end": 38,
+    "meaning": "싸게 사는 물건, 할인 상품",
+    "translation": "서둘러이놀라운할인상품을구매하세요. / 매진되기전에!",
+    "blanks": [
+      {
+        "start": 31,
+        "end": 38
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "bargain",
+        "meaning": "싸게 사는 물건, 할인 상품",
+        "blanks": [
+          {
+            "start": 31,
+            "end": 38
+          }
+        ],
+        "start": 31,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "id": "w9l1p10-625b339c5f21",
+    "week": 9,
+    "lesson": 1,
+    "page": 10,
+    "file": "초급토익어휘_09주_1교시.pdf",
+    "sentence": "Our store offers a wide price range to accommodate different budgets.",
+    "answer": "price range",
+    "start": 24,
+    "end": 35,
+    "meaning": "가격대, 가격 범위",
+    "translation": "저희매장은다양한가격대를제공합니다. / 다양한예산에맞출수있는",
+    "blanks": [
+      {
+        "start": 24,
+        "end": 35
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "price range",
+        "meaning": "가격대, 가격 범위",
+        "blanks": [
+          {
+            "start": 24,
+            "end": 35
+          }
+        ],
+        "start": 24,
+        "end": 35
+      }
+    ]
+  },
+  {
+    "id": "w9l1p10-aa554d8d5dcb",
+    "week": 9,
+    "lesson": 1,
+    "page": 10,
+    "file": "초급토익어휘_09주_1교시.pdf",
+    "sentence": "Some customers felt the item was overpriced compared to its features and quality.",
+    "answer": "overpriced",
+    "start": 33,
+    "end": 43,
+    "meaning": "가격이 지나치게 비싼",
+    "translation": "일부고객은너무비싸다고느꼈습니다. / 제품의기능과품질에비해가격이",
+    "blanks": [
+      {
+        "start": 33,
+        "end": 43
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "overpriced",
+        "meaning": "가격이 지나치게 비싼",
+        "blanks": [
+          {
+            "start": 33,
+            "end": 43
+          }
+        ],
+        "start": 33,
+        "end": 43
+      }
+    ]
+  },
+  {
+    "id": "w9l1p12-fd416db755a0",
+    "week": 9,
+    "lesson": 1,
+    "page": 12,
+    "file": "초급토익어휘_09주_1교시.pdf",
+    "sentence": "I need to check my credit card statement to make sure all the expenses match up.",
+    "answer": "credit card statement",
+    "start": 19,
+    "end": 40,
+    "meaning": "신용 카드 명세서",
+    "translation": "신용카드명세서를확인해야합니다. / 모든비용이일치하는지확인하기위해",
+    "blanks": [
+      {
+        "start": 19,
+        "end": 40
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "credit card statement",
+        "meaning": "신용 카드 명세서",
+        "blanks": [
+          {
+            "start": 19,
+            "end": 40
+          }
+        ],
+        "start": 19,
+        "end": 40
+      }
+    ]
+  },
+  {
+    "id": "w9l1p12-df91974d0312",
+    "week": 9,
+    "lesson": 1,
+    "page": 12,
+    "file": "초급토익어휘_09주_1교시.pdf",
+    "sentence": "Please submit your expense report with all receipts attached.",
+    "answer": "expense report",
+    "start": 19,
+    "end": 33,
+    "meaning": "지출 보고서",
+    "translation": "지출보고서를제출하시기바랍니다. / 모든영수증을첨부하여",
+    "blanks": [
+      {
+        "start": 19,
+        "end": 33
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "expense report",
+        "meaning": "지출 보고서",
+        "blanks": [
+          {
+            "start": 19,
+            "end": 33
+          }
+        ],
+        "start": 19,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "id": "w9l1p13-176d1ff13c9f",
+    "week": 9,
+    "lesson": 1,
+    "page": 13,
+    "file": "초급토익어휘_09주_1교시.pdf",
+    "sentence": "The invoice for the recent purchase will be sent to your email shortly.",
+    "answer": "invoice",
+    "start": 4,
+    "end": 11,
+    "meaning": "송장, 청구서",
+    "translation": "최근구매에대한청구서는/ 곧전송될것입니다. / 귀하의이메일로",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 11
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "invoice",
+        "meaning": "송장, 청구서",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 11
+          }
+        ],
+        "start": 4,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "id": "w9l1p13-9d14f5826bff",
+    "week": 9,
+    "lesson": 1,
+    "page": 13,
+    "file": "초급토익어휘_09주_1교시.pdf",
+    "sentence": "I need to check my bank account to ensure the payment went through.",
+    "answer": "account … payment",
+    "start": 24,
+    "end": 53,
+    "meaning": "계좌 / 지불, 결제 금액",
+    "translation": "은행계좌를확인해야합니다. / 결제가제대로이루어졌는지확인하기위해",
+    "blanks": [
+      {
+        "start": 24,
+        "end": 31
+      },
+      {
+        "start": 46,
+        "end": 53
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "account",
+        "meaning": "계좌",
+        "blanks": [
+          {
+            "start": 24,
+            "end": 31
+          }
+        ],
+        "start": 24,
+        "end": 31
+      },
+      {
+        "answer": "payment",
+        "meaning": "지불, 결제 금액",
+        "blanks": [
+          {
+            "start": 46,
+            "end": 53
+          }
+        ],
+        "start": 46,
+        "end": 53
+      }
+    ]
+  },
+  {
+    "id": "w9l1p15-68d3a5b2159d",
+    "week": 9,
+    "lesson": 1,
+    "page": 15,
+    "file": "초급토익어휘_09주_1교시.pdf",
+    "sentence": "Our store specializes in made-to-order items to meet your specific  preferences.",
+    "answer": "made-to-order",
+    "start": 25,
+    "end": 38,
+    "meaning": "주문 제작된, 맞춤 제작된",
+    "translation": "저희매장은주문제작상품을전문으로합니다/ 고객의특정취향에맞추기위하여",
+    "blanks": [
+      {
+        "start": 25,
+        "end": 38
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "made-to-order",
+        "meaning": "주문 제작된, 맞춤 제작된",
+        "blanks": [
+          {
+            "start": 25,
+            "end": 38
+          }
+        ],
+        "start": 25,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "id": "w9l1p15-b36e5a32a92a",
+    "week": 9,
+    "lesson": 1,
+    "page": 15,
+    "file": "초급토익어휘_09주_1교시.pdf",
+    "sentence": "Our product manual comes with easy-to-follow instructions, making assembly easy.",
+    "answer": "product manual … easy-to-follow instructions",
+    "start": 4,
+    "end": 57,
+    "meaning": "제품 설명서 / 따라 하기 쉬운 지침",
+    "translation": "당사의제품설명서에는따라하기쉬운지침이포함되어있어/ 조립이쉽습니다.",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 18
+      },
+      {
+        "start": 30,
+        "end": 57
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "product manual",
+        "meaning": "제품 설명서",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 18
+          }
+        ],
+        "start": 4,
+        "end": 18
+      },
+      {
+        "answer": "easy-to-follow instructions",
+        "meaning": "따라 하기 쉬운 지침",
+        "blanks": [
+          {
+            "start": 30,
+            "end": 57
+          }
+        ],
+        "start": 30,
+        "end": 57
+      }
+    ]
+  },
+  {
+    "id": "w9l1p15-0b08f553e79f",
+    "week": 9,
+    "lesson": 1,
+    "page": 15,
+    "file": "초급토익어휘_09주_1교시.pdf",
+    "sentence": "Before mass production, the company develops a prototype to test the product's design.",
+    "answer": "prototype",
+    "start": 47,
+    "end": 56,
+    "meaning": "시제품, 원형",
+    "translation": "대량생산에앞서/ 회사는시제품을개발해/ 제품디자인을테스트합니다.",
+    "blanks": [
+      {
+        "start": 47,
+        "end": 56
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "prototype",
+        "meaning": "시제품, 원형",
+        "blanks": [
+          {
+            "start": 47,
+            "end": 56
+          }
+        ],
+        "start": 47,
+        "end": 56
+      }
+    ]
+  },
+  {
+    "id": "w9l2p5-1a06fde943ce",
+    "week": 9,
+    "lesson": 2,
+    "page": 5,
+    "file": "초급토익어휘_09주_2교시.pdf",
+    "sentence": "If you wish to return an item, please do so within seven days of  purchase.",
+    "answer": "return … within seven days of  purchase",
+    "start": 15,
+    "end": 74,
+    "meaning": "반품하다 / 구매일로부터 7일 이내에",
+    "translation": "상품을반품하시려면/ 구매후7일이내에반품해주시기바랍니다.",
+    "blanks": [
+      {
+        "start": 15,
+        "end": 21
+      },
+      {
+        "start": 44,
+        "end": 74
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "return",
+        "meaning": "반품하다",
+        "blanks": [
+          {
+            "start": 15,
+            "end": 21
+          }
+        ],
+        "start": 15,
+        "end": 21
+      },
+      {
+        "answer": "within seven days of  purchase",
+        "meaning": "구매일로부터 7일 이내에",
+        "blanks": [
+          {
+            "start": 44,
+            "end": 74
+          }
+        ],
+        "start": 44,
+        "end": 74
+      }
+    ]
+  },
+  {
+    "id": "w9l2p5-4372fb9efc9b",
+    "week": 9,
+    "lesson": 2,
+    "page": 5,
+    "file": "초급토익어휘_09주_2교시.pdf",
+    "sentence": "Our refund policy allows you to receive a refund within 30 days if the item is in unused condition.",
+    "answer": "refund policy … refund … unused condition",
+    "start": 4,
+    "end": 98,
+    "meaning": "환불 정책 / 환불, 환불금 / 사용하지 않은 상태",
+    "translation": "당사의환불정책에따라/ 30일이내에환불을받으실수있습니다. / 상품이사용되지않은상태인경우",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 17
+      },
+      {
+        "start": 42,
+        "end": 48
+      },
+      {
+        "start": 82,
+        "end": 98
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "refund policy",
+        "meaning": "환불 정책",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 17
+          }
+        ],
+        "start": 4,
+        "end": 17
+      },
+      {
+        "answer": "refund",
+        "meaning": "환불, 환불금",
+        "blanks": [
+          {
+            "start": 42,
+            "end": 48
+          }
+        ],
+        "start": 42,
+        "end": 48
+      },
+      {
+        "answer": "unused condition",
+        "meaning": "사용하지 않은 상태",
+        "blanks": [
+          {
+            "start": 82,
+            "end": 98
+          }
+        ],
+        "start": 82,
+        "end": 98
+      }
+    ]
+  },
+  {
+    "id": "w9l2p7-20c31ebff307",
+    "week": 9,
+    "lesson": 2,
+    "page": 7,
+    "file": "초급토익어휘_09주_2교시.pdf",
+    "sentence": "The company's commitment to quality is reflected in their excellent  warranty service.",
+    "answer": "commitment to quality … warranty service",
+    "start": 14,
+    "end": 85,
+    "meaning": "품질에 대한 약속, 품질을 지키려는 노력 / 보증 서비스",
+    "translation": "품질에대한회사의약속은/ 우수한보증서비스에반영됩니다.",
+    "blanks": [
+      {
+        "start": 14,
+        "end": 35
+      },
+      {
+        "start": 69,
+        "end": 85
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "commitment to quality",
+        "meaning": "품질에 대한 약속, 품질을 지키려는 노력",
+        "blanks": [
+          {
+            "start": 14,
+            "end": 35
+          }
+        ],
+        "start": 14,
+        "end": 35
+      },
+      {
+        "answer": "warranty service",
+        "meaning": "보증 서비스",
+        "blanks": [
+          {
+            "start": 69,
+            "end": 85
+          }
+        ],
+        "start": 69,
+        "end": 85
+      }
+    ]
+  },
+  {
+    "id": "w9l2p7-1cbfbf2adeec",
+    "week": 9,
+    "lesson": 2,
+    "page": 7,
+    "file": "초급토익어휘_09주_2교시.pdf",
+    "sentence": "With our money-back guarantee, you can get a full refund if you're not  satisfied with your purchase.",
+    "answer": "money-back guarantee … get a full refund",
+    "start": 9,
+    "end": 56,
+    "meaning": "환불 보장 / 전액 환불을 받다",
+    "translation": "환불보장을통해/ 전액환불을받으실수있습니다. / 구매에만족하지않으시면",
+    "blanks": [
+      {
+        "start": 9,
+        "end": 29
+      },
+      {
+        "start": 39,
+        "end": 56
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "money-back guarantee",
+        "meaning": "환불 보장",
+        "blanks": [
+          {
+            "start": 9,
+            "end": 29
+          }
+        ],
+        "start": 9,
+        "end": 29
+      },
+      {
+        "answer": "get a full refund",
+        "meaning": "전액 환불을 받다",
+        "blanks": [
+          {
+            "start": 39,
+            "end": 56
+          }
+        ],
+        "start": 39,
+        "end": 56
+      }
+    ]
+  },
+  {
+    "id": "w9l2p7-d53509e18993",
+    "week": 9,
+    "lesson": 2,
+    "page": 7,
+    "file": "초급토익어휘_09주_2교시.pdf",
+    "sentence": "Please report any defects you notice in the product so that we can address it promptly.",
+    "answer": "defects",
+    "start": 18,
+    "end": 25,
+    "meaning": "결함",
+    "translation": "제품에서발견된결함을신고해주시면/ 신속하게처리해드리겠습니다.",
+    "blanks": [
+      {
+        "start": 18,
+        "end": 25
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "defects",
+        "meaning": "결함",
+        "blanks": [
+          {
+            "start": 18,
+            "end": 25
+          }
+        ],
+        "start": 18,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "id": "w9l2p9-132ba112ab04",
+    "week": 9,
+    "lesson": 2,
+    "page": 9,
+    "file": "초급토익어휘_09주_2교시.pdf",
+    "sentence": "Our service representatives are available to assist you with any inquiries or concerns.",
+    "answer": "service representatives",
+    "start": 4,
+    "end": 27,
+    "meaning": "고객 서비스 담당자들",
+    "translation": "당사의서비스담당자는/ 도움을드릴수있습니다. / 문의사항이나우려사항이있는경우",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 27
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "service representatives",
+        "meaning": "고객 서비스 담당자들",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 27
+          }
+        ],
+        "start": 4,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "id": "w9l2p9-709f5a094e7f",
+    "week": 9,
+    "lesson": 2,
+    "page": 9,
+    "file": "초급토익어휘_09주_2교시.pdf",
+    "sentence": "If needed, you can visit our authorized service center for  product repairs.",
+    "answer": "authorized service center",
+    "start": 29,
+    "end": 54,
+    "meaning": "공인 서비스 센터",
+    "translation": "필요한경우/ 당사공인서비스센터를방문하여제품수리를받으실수있습니다.",
+    "blanks": [
+      {
+        "start": 29,
+        "end": 54
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "authorized service center",
+        "meaning": "공인 서비스 센터",
+        "blanks": [
+          {
+            "start": 29,
+            "end": 54
+          }
+        ],
+        "start": 29,
+        "end": 54
+      }
+    ]
+  },
+  {
+    "id": "w9l2p10-4dd92d45a82b",
+    "week": 9,
+    "lesson": 2,
+    "page": 10,
+    "file": "초급토익어휘_09주_2교시.pdf",
+    "sentence": "For immediate support, feel free to contact our hotline.",
+    "answer": "hotline",
+    "start": 48,
+    "end": 55,
+    "meaning": "상담 전화, 직통 전화",
+    "translation": "즉각적인지원을받으려면/ 언제든지핫라인에문의하세요.",
+    "blanks": [
+      {
+        "start": 48,
+        "end": 55
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "hotline",
+        "meaning": "상담 전화, 직통 전화",
+        "blanks": [
+          {
+            "start": 48,
+            "end": 55
+          }
+        ],
+        "start": 48,
+        "end": 55
+      }
+    ]
+  },
+  {
+    "id": "w9l2p10-b24a04ba25af",
+    "week": 9,
+    "lesson": 2,
+    "page": 10,
+    "file": "초급토익어휘_09주_2교시.pdf",
+    "sentence": "We will follow up on any unresolved issues and sincerely apologize for  any inconvenience.",
+    "answer": "follow up on … apologize … inconvenience",
+    "start": 8,
+    "end": 89,
+    "meaning": "~에 대한 후속 조치를 하다 / 사과하다 / 불편",
+    "translation": "저희는후속조치를취하고/ 해결되지않은문제에대해서/ 불편을끼쳐드린점진심으로사과드립니다.",
+    "blanks": [
+      {
+        "start": 8,
+        "end": 20
+      },
+      {
+        "start": 57,
+        "end": 66
+      },
+      {
+        "start": 76,
+        "end": 89
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "follow up on",
+        "meaning": "~에 대한 후속 조치를 하다",
+        "blanks": [
+          {
+            "start": 8,
+            "end": 20
+          }
+        ],
+        "start": 8,
+        "end": 20
+      },
+      {
+        "answer": "apologize",
+        "meaning": "사과하다",
+        "blanks": [
+          {
+            "start": 57,
+            "end": 66
+          }
+        ],
+        "start": 57,
+        "end": 66
+      },
+      {
+        "answer": "inconvenience",
+        "meaning": "불편",
+        "blanks": [
+          {
+            "start": 76,
+            "end": 89
+          }
+        ],
+        "start": 76,
+        "end": 89
+      }
+    ]
+  },
+  {
+    "id": "w9l2p12-b6c5ef453688",
+    "week": 9,
+    "lesson": 2,
+    "page": 12,
+    "file": "초급토익어휘_09주_2교시.pdf",
+    "sentence": "If a machine is out of order, please report it to our technician for  immediate assistance.",
+    "answer": "out of order … technician",
+    "start": 16,
+    "end": 64,
+    "meaning": "고장 난 / 기술자",
+    "translation": "기계가고장난경우당사/ 기술자에게보고하여/ 즉시지원을받으십시오.",
+    "blanks": [
+      {
+        "start": 16,
+        "end": 28
+      },
+      {
+        "start": 54,
+        "end": 64
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "out of order",
+        "meaning": "고장 난",
+        "blanks": [
+          {
+            "start": 16,
+            "end": 28
+          }
+        ],
+        "start": 16,
+        "end": 28
+      },
+      {
+        "answer": "technician",
+        "meaning": "기술자",
+        "blanks": [
+          {
+            "start": 54,
+            "end": 64
+          }
+        ],
+        "start": 54,
+        "end": 64
+      }
+    ]
+  },
+  {
+    "id": "w9l2p12-30375629ba70",
+    "week": 9,
+    "lesson": 2,
+    "page": 12,
+    "file": "초급토익어휘_09주_2교시.pdf",
+    "sentence": "When the washing machine developed a defect, our skilled work crew  installed a replacement part to fix it.",
+    "answer": "developed a defect … replacement part",
+    "start": 25,
+    "end": 96,
+    "meaning": "결함이 발생했다 / 교체 부품",
+    "translation": "세탁기에결함이발생하자/ 저희숙련된작업조가교체부품을설치하여수리했습니다.",
+    "blanks": [
+      {
+        "start": 25,
+        "end": 43
+      },
+      {
+        "start": 80,
+        "end": 96
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "developed a defect",
+        "meaning": "결함이 발생했다",
+        "blanks": [
+          {
+            "start": 25,
+            "end": 43
+          }
+        ],
+        "start": 25,
+        "end": 43
+      },
+      {
+        "answer": "replacement part",
+        "meaning": "교체 부품",
+        "blanks": [
+          {
+            "start": 80,
+            "end": 96
+          }
+        ],
+        "start": 80,
+        "end": 96
+      }
+    ]
+  },
+  {
+    "id": "w9l2p14-d147637946fc",
+    "week": 9,
+    "lesson": 2,
+    "page": 14,
+    "file": "초급토익어휘_09주_2교시.pdf",
+    "sentence": "She had a complaint about the careless handling of her fragile items during shipping.",
+    "answer": "complaint … handling … shipping",
+    "start": 10,
+    "end": 84,
+    "meaning": "불만, 항의 / 취급, 다루기 / 배송, 운송",
+    "translation": "그녀는불만을제기했습니다. / 부주의하게취급되는것에대해/ 그녀의깨지기쉬운물건이/ 배송중에",
+    "blanks": [
+      {
+        "start": 10,
+        "end": 19
+      },
+      {
+        "start": 39,
+        "end": 47
+      },
+      {
+        "start": 76,
+        "end": 84
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "complaint",
+        "meaning": "불만, 항의",
+        "blanks": [
+          {
+            "start": 10,
+            "end": 19
+          }
+        ],
+        "start": 10,
+        "end": 19
+      },
+      {
+        "answer": "handling",
+        "meaning": "취급, 다루기",
+        "blanks": [
+          {
+            "start": 39,
+            "end": 47
+          }
+        ],
+        "start": 39,
+        "end": 47
+      },
+      {
+        "answer": "shipping",
+        "meaning": "배송, 운송",
+        "blanks": [
+          {
+            "start": 76,
+            "end": 84
+          }
+        ],
+        "start": 76,
+        "end": 84
+      }
+    ]
+  },
+  {
+    "id": "w9l2p14-bd05a1bb1c6a",
+    "week": 9,
+    "lesson": 2,
+    "page": 14,
+    "file": "초급토익어휘_09주_2교시.pdf",
+    "sentence": "The company's service fell short of expectations, resulting in many  complaints from customers.",
+    "answer": "fell short of … complaints",
+    "start": 22,
+    "end": 79,
+    "meaning": "~에 미치지 못했다 / 불만, 항의들",
+    "translation": "회사의서비스는기대에미치지못하여/ 고객들로부터수많은불만이제기되었습니다.",
+    "blanks": [
+      {
+        "start": 22,
+        "end": 35
+      },
+      {
+        "start": 69,
+        "end": 79
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "fell short of",
+        "meaning": "~에 미치지 못했다",
+        "blanks": [
+          {
+            "start": 22,
+            "end": 35
+          }
+        ],
+        "start": 22,
+        "end": 35
+      },
+      {
+        "answer": "complaints",
+        "meaning": "불만, 항의들",
+        "blanks": [
+          {
+            "start": 69,
+            "end": 79
+          }
+        ],
+        "start": 69,
+        "end": 79
+      }
+    ]
+  },
+  {
+    "id": "w9l2p14-9ca5a0fee85e",
+    "week": 9,
+    "lesson": 2,
+    "page": 14,
+    "file": "초급토익어휘_09주_2교시.pdf",
+    "sentence": "Fixing the malfunction in the machine was time-consuming and challenging.",
+    "answer": "malfunction … time-consuming",
+    "start": 11,
+    "end": 56,
+    "meaning": "오작동, 고장 / 시간이 많이 걸리는",
+    "translation": "기계의오작동을해결하는것은/ 시간이많이걸리고어려운일이었습니다.",
+    "blanks": [
+      {
+        "start": 11,
+        "end": 22
+      },
+      {
+        "start": 42,
+        "end": 56
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "malfunction",
+        "meaning": "오작동, 고장",
+        "blanks": [
+          {
+            "start": 11,
+            "end": 22
+          }
+        ],
+        "start": 11,
+        "end": 22
+      },
+      {
+        "answer": "time-consuming",
+        "meaning": "시간이 많이 걸리는",
+        "blanks": [
+          {
+            "start": 42,
+            "end": 56
+          }
+        ],
+        "start": 42,
+        "end": 56
+      }
+    ]
+  },
+  {
+    "id": "w10l1p5-c85b8f28464e",
+    "week": 10,
+    "lesson": 1,
+    "page": 5,
+    "file": "초급토익어휘_10주_1교시.pdf",
+    "sentence": "The city invested in new vehicles for its public transportation system.",
+    "answer": "vehicles … public transportation",
+    "start": 25,
+    "end": 63,
+    "meaning": "차량들 / 대중교통",
+    "translation": "시는대중교통시스템을위해새로운차량에투자했습니다.",
+    "blanks": [
+      {
+        "start": 25,
+        "end": 33
+      },
+      {
+        "start": 42,
+        "end": 63
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "vehicles",
+        "meaning": "차량들",
+        "blanks": [
+          {
+            "start": 25,
+            "end": 33
+          }
+        ],
+        "start": 25,
+        "end": 33
+      },
+      {
+        "answer": "public transportation",
+        "meaning": "대중교통",
+        "blanks": [
+          {
+            "start": 42,
+            "end": 63
+          }
+        ],
+        "start": 42,
+        "end": 63
+      }
+    ]
+  },
+  {
+    "id": "w10l1p5-7fe49ed74595",
+    "week": 10,
+    "lesson": 1,
+    "page": 5,
+    "file": "초급토익어휘_10주_1교시.pdf",
+    "sentence": "The tour agency provides directions on its website for travelers using its services.",
+    "answer": "provides directions",
+    "start": 16,
+    "end": 35,
+    "meaning": "길을 안내한다, 방향을 알려 준다",
+    "translation": "그여행사는웹사이트를통해안내를제공합니다. / 여행자가서비스를이용하는경우",
+    "blanks": [
+      {
+        "start": 16,
+        "end": 35
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "provides directions",
+        "meaning": "길을 안내한다, 방향을 알려 준다",
+        "blanks": [
+          {
+            "start": 16,
+            "end": 35
+          }
+        ],
+        "start": 16,
+        "end": 35
+      }
+    ]
+  },
+  {
+    "id": "w10l1p7-145123b1acc5",
+    "week": 10,
+    "lesson": 1,
+    "page": 7,
+    "file": "초급토익어휘_10주_1교시.pdf",
+    "sentence": "The new traffic light at the busy intersection has improved the flow of  vehicles.",
+    "answer": "traffic light … intersection … vehicles",
+    "start": 8,
+    "end": 81,
+    "meaning": "교통 신호등 / 교차로 / 차량들",
+    "translation": "새로운신호등이/ 혼잡한교차로(설치되어) / 차량흐름이개선되었습니다.",
+    "blanks": [
+      {
+        "start": 8,
+        "end": 21
+      },
+      {
+        "start": 34,
+        "end": 46
+      },
+      {
+        "start": 73,
+        "end": 81
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "traffic light",
+        "meaning": "교통 신호등",
+        "blanks": [
+          {
+            "start": 8,
+            "end": 21
+          }
+        ],
+        "start": 8,
+        "end": 21
+      },
+      {
+        "answer": "intersection",
+        "meaning": "교차로",
+        "blanks": [
+          {
+            "start": 34,
+            "end": 46
+          }
+        ],
+        "start": 34,
+        "end": 46
+      },
+      {
+        "answer": "vehicles",
+        "meaning": "차량들",
+        "blanks": [
+          {
+            "start": 73,
+            "end": 81
+          }
+        ],
+        "start": 73,
+        "end": 81
+      }
+    ]
+  },
+  {
+    "id": "w10l1p7-180524cec7d8",
+    "week": 10,
+    "lesson": 1,
+    "page": 7,
+    "file": "초급토익어휘_10주_1교시.pdf",
+    "sentence": "The city's road crew salted the pavement to prevent slips in the inclement weather.",
+    "answer": "pavement … inclement weather",
+    "start": 32,
+    "end": 82,
+    "meaning": "포장도로, 인도 / 악천후",
+    "translation": "시의도로직원들은포장도로에소금을뿌렸습니다. / 미끄러지는것을방지하기위해/ 악천후에",
+    "blanks": [
+      {
+        "start": 32,
+        "end": 40
+      },
+      {
+        "start": 65,
+        "end": 82
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "pavement",
+        "meaning": "포장도로, 인도",
+        "blanks": [
+          {
+            "start": 32,
+            "end": 40
+          }
+        ],
+        "start": 32,
+        "end": 40
+      },
+      {
+        "answer": "inclement weather",
+        "meaning": "악천후",
+        "blanks": [
+          {
+            "start": 65,
+            "end": 82
+          }
+        ],
+        "start": 65,
+        "end": 82
+      }
+    ]
+  },
+  {
+    "id": "w10l1p8-cd8c2fc3a500",
+    "week": 10,
+    "lesson": 1,
+    "page": 8,
+    "file": "초급토익어휘_10주_1교시.pdf",
+    "sentence": "The roadwork on the main path caused a detour for pedestrians.",
+    "answer": "roadwork … path … detour … pedestrians",
+    "start": 4,
+    "end": 61,
+    "meaning": "도로 공사 / 길, 통로 / 우회, 우회로 / 보행자들",
+    "translation": "본선도로공사로인해발생하였습니다. / 보행자의우회로가",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 12
+      },
+      {
+        "start": 25,
+        "end": 29
+      },
+      {
+        "start": 39,
+        "end": 45
+      },
+      {
+        "start": 50,
+        "end": 61
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "roadwork",
+        "meaning": "도로 공사",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 12
+          }
+        ],
+        "start": 4,
+        "end": 12
+      },
+      {
+        "answer": "path",
+        "meaning": "길, 통로",
+        "blanks": [
+          {
+            "start": 25,
+            "end": 29
+          }
+        ],
+        "start": 25,
+        "end": 29
+      },
+      {
+        "answer": "detour",
+        "meaning": "우회, 우회로",
+        "blanks": [
+          {
+            "start": 39,
+            "end": 45
+          }
+        ],
+        "start": 39,
+        "end": 45
+      },
+      {
+        "answer": "pedestrians",
+        "meaning": "보행자들",
+        "blanks": [
+          {
+            "start": 50,
+            "end": 61
+          }
+        ],
+        "start": 50,
+        "end": 61
+      }
+    ]
+  },
+  {
+    "id": "w10l1p8-6b48f5b297c8",
+    "week": 10,
+    "lesson": 1,
+    "page": 8,
+    "file": "초급토익어휘_10주_1교시.pdf",
+    "sentence": "Due to the heavy traffic, it took much longer to reach the office than usual.",
+    "answer": "heavy traffic",
+    "start": 11,
+    "end": 24,
+    "meaning": "많은 교통량, 교통 체증",
+    "translation": "교통량이많아/ 시간이훨씬더걸렸습니다. / 평소보다사무실까지가는데",
+    "blanks": [
+      {
+        "start": 11,
+        "end": 24
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "heavy traffic",
+        "meaning": "많은 교통량, 교통 체증",
+        "blanks": [
+          {
+            "start": 11,
+            "end": 24
+          }
+        ],
+        "start": 11,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "id": "w10l1p8-a9483c86ee23",
+    "week": 10,
+    "lesson": 1,
+    "page": 8,
+    "file": "초급토익어휘_10주_1교시.pdf",
+    "sentence": "The sign at the corner indicates the direction to the nearest bus stop.",
+    "answer": "sign",
+    "start": 4,
+    "end": 8,
+    "meaning": "표지판",
+    "translation": "모퉁이에있는표지판은/ 방향을나타냅니다. / 가장가까운버스정류장으로가는",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 8
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "sign",
+        "meaning": "표지판",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 8
+          }
+        ],
+        "start": 4,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "id": "w10l1p10-106e419a03ce",
+    "week": 10,
+    "lesson": 1,
+    "page": 10,
+    "file": "초급토익어휘_10주_1교시.pdf",
+    "sentence": "She waited at the curb for the traffic to stop.",
+    "answer": "curb",
+    "start": 18,
+    "end": 22,
+    "meaning": "도로 경계석, 도로변",
+    "translation": "그녀는도로변에서기다렸습니다. / 교통이멈출때까지",
+    "blanks": [
+      {
+        "start": 18,
+        "end": 22
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "curb",
+        "meaning": "도로 경계석, 도로변",
+        "blanks": [
+          {
+            "start": 18,
+            "end": 22
+          }
+        ],
+        "start": 18,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "id": "w10l1p10-b37ea2fcc800",
+    "week": 10,
+    "lesson": 1,
+    "page": 10,
+    "file": "초급토익어휘_10주_1교시.pdf",
+    "sentence": "Pedestrians should always use the crosswalk and wait for the walk  signal.",
+    "answer": "Pedestrians … crosswalk",
+    "start": 0,
+    "end": 43,
+    "meaning": "보행자들 / 횡단보도",
+    "translation": "보행자는항상횡단보도를이용하고/ 보행신호를기다려야합니다.",
+    "blanks": [
+      {
+        "start": 0,
+        "end": 11
+      },
+      {
+        "start": 34,
+        "end": 43
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "Pedestrians",
+        "meaning": "보행자들",
+        "blanks": [
+          {
+            "start": 0,
+            "end": 11
+          }
+        ],
+        "start": 0,
+        "end": 11
+      },
+      {
+        "answer": "crosswalk",
+        "meaning": "횡단보도",
+        "blanks": [
+          {
+            "start": 34,
+            "end": 43
+          }
+        ],
+        "start": 34,
+        "end": 43
+      }
+    ]
+  },
+  {
+    "id": "w10l1p12-9c2d596c0a45",
+    "week": 10,
+    "lesson": 1,
+    "page": 12,
+    "file": "초급토익어휘_10주_1교시.pdf",
+    "sentence": "Due to the downtown closure for a special event, the usual route of  my commute was affected.",
+    "answer": "downtown closure … route … commute",
+    "start": 11,
+    "end": 79,
+    "meaning": "도심 폐쇄, 시내 통행 제한 / 경로, 노선 / 통근, 출퇴근",
+    "translation": "특별행사로인한시내폐쇄로인해/ 평소출퇴근경로가영향을받았습니다.",
+    "blanks": [
+      {
+        "start": 11,
+        "end": 27
+      },
+      {
+        "start": 59,
+        "end": 64
+      },
+      {
+        "start": 72,
+        "end": 79
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "downtown closure",
+        "meaning": "도심 폐쇄, 시내 통행 제한",
+        "blanks": [
+          {
+            "start": 11,
+            "end": 27
+          }
+        ],
+        "start": 11,
+        "end": 27
+      },
+      {
+        "answer": "route",
+        "meaning": "경로, 노선",
+        "blanks": [
+          {
+            "start": 59,
+            "end": 64
+          }
+        ],
+        "start": 59,
+        "end": 64
+      },
+      {
+        "answer": "commute",
+        "meaning": "통근, 출퇴근",
+        "blanks": [
+          {
+            "start": 72,
+            "end": 79
+          }
+        ],
+        "start": 72,
+        "end": 79
+      }
+    ]
+  },
+  {
+    "id": "w10l1p12-0502877c196d",
+    "week": 10,
+    "lesson": 1,
+    "page": 12,
+    "file": "초급토익어휘_10주_1교시.pdf",
+    "sentence": "The block on the main road led to traffic congestion, so I had to take a detour from my usual route.",
+    "answer": "block … traffic congestion … detour … route",
+    "start": 4,
+    "end": 99,
+    "meaning": "차단, 통행 차단 / 교통 체증 / 우회, 우회로 / 경로, 노선",
+    "translation": "주요도로의차단으로인해교통정체가발생하여/ 나는우회해야했습니다.",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 9
+      },
+      {
+        "start": 34,
+        "end": 52
+      },
+      {
+        "start": 73,
+        "end": 79
+      },
+      {
+        "start": 94,
+        "end": 99
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "block",
+        "meaning": "차단, 통행 차단",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 9
+          }
+        ],
+        "start": 4,
+        "end": 9
+      },
+      {
+        "answer": "traffic congestion",
+        "meaning": "교통 체증",
+        "blanks": [
+          {
+            "start": 34,
+            "end": 52
+          }
+        ],
+        "start": 34,
+        "end": 52
+      },
+      {
+        "answer": "detour",
+        "meaning": "우회, 우회로",
+        "blanks": [
+          {
+            "start": 73,
+            "end": 79
+          }
+        ],
+        "start": 73,
+        "end": 79
+      },
+      {
+        "answer": "route",
+        "meaning": "경로, 노선",
+        "blanks": [
+          {
+            "start": 94,
+            "end": 99
+          }
+        ],
+        "start": 94,
+        "end": 99
+      }
+    ]
+  },
+  {
+    "id": "w10l1p14-f27853f902bc",
+    "week": 10,
+    "lesson": 1,
+    "page": 14,
+    "file": "초급토익어휘_10주_1교시.pdf",
+    "sentence": "They towed away the illegally parked car.",
+    "answer": "towed away",
+    "start": 5,
+    "end": 15,
+    "meaning": "견인했다",
+    "translation": "그들은불법주차된차량을견인하였습니다.",
+    "blanks": [
+      {
+        "start": 5,
+        "end": 15
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "towed away",
+        "meaning": "견인했다",
+        "blanks": [
+          {
+            "start": 5,
+            "end": 15
+          }
+        ],
+        "start": 5,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "id": "w10l1p14-5715e73454c0",
+    "week": 10,
+    "lesson": 1,
+    "page": 14,
+    "file": "초급토익어휘_10주_1교시.pdf",
+    "sentence": "The traffic police checked the cars to ensure compliance with the speed limit.",
+    "answer": "ensure compliance with",
+    "start": 39,
+    "end": 61,
+    "meaning": "~의 준수를 확인하다, 보장하다",
+    "translation": "교통경찰은차량을점검했습니다. / 확인하기위해/ 제한속도를준수하는지를",
+    "blanks": [
+      {
+        "start": 39,
+        "end": 61
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "ensure compliance with",
+        "meaning": "~의 준수를 확인하다, 보장하다",
+        "blanks": [
+          {
+            "start": 39,
+            "end": 61
+          }
+        ],
+        "start": 39,
+        "end": 61
+      }
+    ]
+  },
+  {
+    "id": "w10l1p15-b59da9009928",
+    "week": 10,
+    "lesson": 1,
+    "page": 15,
+    "file": "초급토익어휘_10주_1교시.pdf",
+    "sentence": "The police officer gave me a ticket for running a red light.",
+    "answer": "ticket … running a red light",
+    "start": 29,
+    "end": 59,
+    "meaning": "교통 위반 딱지 / 빨간 신호를 무시하고 가는 것, 신호 위반",
+    "translation": "경찰관이내게딱지를주었습니다. / 나에게정지신호를위반하고달렸다는이유로",
+    "blanks": [
+      {
+        "start": 29,
+        "end": 35
+      },
+      {
+        "start": 40,
+        "end": 59
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "ticket",
+        "meaning": "교통 위반 딱지",
+        "blanks": [
+          {
+            "start": 29,
+            "end": 35
+          }
+        ],
+        "start": 29,
+        "end": 35
+      },
+      {
+        "answer": "running a red light",
+        "meaning": "빨간 신호를 무시하고 가는 것, 신호 위반",
+        "blanks": [
+          {
+            "start": 40,
+            "end": 59
+          }
+        ],
+        "start": 40,
+        "end": 59
+      }
+    ]
+  },
+  {
+    "id": "w10l1p15-ea13ee2be2d3",
+    "week": 10,
+    "lesson": 1,
+    "page": 15,
+    "file": "초급토익어휘_10주_1교시.pdf",
+    "sentence": "They decided to impose a fine for not wearing a seatbelt while driving.",
+    "answer": "impose a fine",
+    "start": 16,
+    "end": 29,
+    "meaning": "벌금을 부과하다",
+    "translation": "벌금을부과하기로결정했습니다. / 안전벨트를착용하지않으면/ 운전중",
+    "blanks": [
+      {
+        "start": 16,
+        "end": 29
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "impose a fine",
+        "meaning": "벌금을 부과하다",
+        "blanks": [
+          {
+            "start": 16,
+            "end": 29
+          }
+        ],
+        "start": 16,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "id": "w10l2p5-ce79ce3c5ec6",
+    "week": 10,
+    "lesson": 2,
+    "page": 5,
+    "file": "초급토익어휘_10주_2교시.pdf",
+    "sentence": "Despite the turbulence, the direct flight offered a quick one-way trip to our destination.",
+    "answer": "turbulence … direct flight … one-way trip",
+    "start": 12,
+    "end": 70,
+    "meaning": "난기류 / 직항편 / 편도 여행",
+    "translation": "난기류에도불구하고/ 직항편은목적지까지빠른편도여행을제공했습니다.",
+    "blanks": [
+      {
+        "start": 12,
+        "end": 22
+      },
+      {
+        "start": 28,
+        "end": 41
+      },
+      {
+        "start": 58,
+        "end": 70
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "turbulence",
+        "meaning": "난기류",
+        "blanks": [
+          {
+            "start": 12,
+            "end": 22
+          }
+        ],
+        "start": 12,
+        "end": 22
+      },
+      {
+        "answer": "direct flight",
+        "meaning": "직항편",
+        "blanks": [
+          {
+            "start": 28,
+            "end": 41
+          }
+        ],
+        "start": 28,
+        "end": 41
+      },
+      {
+        "answer": "one-way trip",
+        "meaning": "편도 여행",
+        "blanks": [
+          {
+            "start": 58,
+            "end": 70
+          }
+        ],
+        "start": 58,
+        "end": 70
+      }
+    ]
+  },
+  {
+    "id": "w10l2p5-4a7c451196de",
+    "week": 10,
+    "lesson": 2,
+    "page": 5,
+    "file": "초급토익어휘_10주_2교시.pdf",
+    "sentence": "Connecting flights are often more affordable, but they require a longer travel time.",
+    "answer": "Connecting flights",
+    "start": 0,
+    "end": 18,
+    "meaning": "연결 항공편, 경유 항공편",
+    "translation": "연결항공편은가격이더저렴한경우가많지만/ 이동시간이더길어집니다.",
+    "blanks": [
+      {
+        "start": 0,
+        "end": 18
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "Connecting flights",
+        "meaning": "연결 항공편, 경유 항공편",
+        "blanks": [
+          {
+            "start": 0,
+            "end": 18
+          }
+        ],
+        "start": 0,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "id": "w10l2p6-ada75052c684",
+    "week": 10,
+    "lesson": 2,
+    "page": 6,
+    "file": "초급토익어휘_10주_2교시.pdf",
+    "sentence": "I missed the flight to New York due to inclement weather.",
+    "answer": "missed the flight … due to inclement weather",
+    "start": 2,
+    "end": 56,
+    "meaning": "비행기를 놓쳤다 / 악천후 때문에",
+    "translation": "뉴욕행비행기를놓쳤습니다. / 악천후로인해",
+    "blanks": [
+      {
+        "start": 2,
+        "end": 19
+      },
+      {
+        "start": 32,
+        "end": 56
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "missed the flight",
+        "meaning": "비행기를 놓쳤다",
+        "blanks": [
+          {
+            "start": 2,
+            "end": 19
+          }
+        ],
+        "start": 2,
+        "end": 19
+      },
+      {
+        "answer": "due to inclement weather",
+        "meaning": "악천후 때문에",
+        "blanks": [
+          {
+            "start": 32,
+            "end": 56
+          }
+        ],
+        "start": 32,
+        "end": 56
+      }
+    ]
+  },
+  {
+    "id": "w10l2p6-f921abd2d31e",
+    "week": 10,
+    "lesson": 2,
+    "page": 6,
+    "file": "초급토익어휘_10주_2교시.pdf",
+    "sentence": "The display board showed that my connecting flight was departing from Gate B.",
+    "answer": "display board … connecting flight",
+    "start": 4,
+    "end": 50,
+    "meaning": "전광판, 게시판 / 연결 항공편, 경유 항공편",
+    "translation": "전광판에는표시되어있었습니다. / 연결항공편이출발한다고/ Gate B에서",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 17
+      },
+      {
+        "start": 33,
+        "end": 50
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "display board",
+        "meaning": "전광판, 게시판",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 17
+          }
+        ],
+        "start": 4,
+        "end": 17
+      },
+      {
+        "answer": "connecting flight",
+        "meaning": "연결 항공편, 경유 항공편",
+        "blanks": [
+          {
+            "start": 33,
+            "end": 50
+          }
+        ],
+        "start": 33,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "id": "w10l2p8-15e1c6e7e52c",
+    "week": 10,
+    "lesson": 2,
+    "page": 8,
+    "file": "초급토익어휘_10주_2교시.pdf",
+    "sentence": "During my flight to Europe, I had a brief stopover in Dubai before continuing on to my final destination.",
+    "answer": "flight … stopover",
+    "start": 10,
+    "end": 50,
+    "meaning": "비행, 항공편 / 중간 기착, 경유",
+    "translation": "유럽으로가는비행중에/ 두바이에잠깐들렀습니다. / 최종목적지로향하기전",
+    "blanks": [
+      {
+        "start": 10,
+        "end": 16
+      },
+      {
+        "start": 42,
+        "end": 50
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "flight",
+        "meaning": "비행, 항공편",
+        "blanks": [
+          {
+            "start": 10,
+            "end": 16
+          }
+        ],
+        "start": 10,
+        "end": 16
+      },
+      {
+        "answer": "stopover",
+        "meaning": "중간 기착, 경유",
+        "blanks": [
+          {
+            "start": 42,
+            "end": 50
+          }
+        ],
+        "start": 42,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "id": "w10l2p8-f46557122ed2",
+    "week": 10,
+    "lesson": 2,
+    "page": 8,
+    "file": "초급토익어휘_10주_2교시.pdf",
+    "sentence": "After a 14-hour flight across multiple time zones, I struggled with severe jet lag.",
+    "answer": "jet lag",
+    "start": 75,
+    "end": 82,
+    "meaning": "시차로 인한 피로, 시차 적응 문제",
+    "translation": "14시간동안비행한후/ 여러시간대를가로질러/ 시차로어려움을겪었습니다.",
+    "blanks": [
+      {
+        "start": 75,
+        "end": 82
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "jet lag",
+        "meaning": "시차로 인한 피로, 시차 적응 문제",
+        "blanks": [
+          {
+            "start": 75,
+            "end": 82
+          }
+        ],
+        "start": 75,
+        "end": 82
+      }
+    ]
+  },
+  {
+    "id": "w10l2p9-645150d8312d",
+    "week": 10,
+    "lesson": 2,
+    "page": 9,
+    "file": "초급토익어휘_10주_2교시.pdf",
+    "sentence": "I prefer the aisle seat because it's easier to make my way to the restroom.",
+    "answer": "aisle seat … make my way to",
+    "start": 13,
+    "end": 61,
+    "meaning": "통로 쪽 좌석 / ~로 가다, 이동하다",
+    "translation": "나는통로쪽좌석을선호합니다. / 화장실에가기가더쉽기때문에",
+    "blanks": [
+      {
+        "start": 13,
+        "end": 23
+      },
+      {
+        "start": 47,
+        "end": 61
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "aisle seat",
+        "meaning": "통로 쪽 좌석",
+        "blanks": [
+          {
+            "start": 13,
+            "end": 23
+          }
+        ],
+        "start": 13,
+        "end": 23
+      },
+      {
+        "answer": "make my way to",
+        "meaning": "~로 가다, 이동하다",
+        "blanks": [
+          {
+            "start": 47,
+            "end": 61
+          }
+        ],
+        "start": 47,
+        "end": 61
+      }
+    ]
+  },
+  {
+    "id": "w10l2p9-34a68004f5b8",
+    "week": 10,
+    "lesson": 2,
+    "page": 9,
+    "file": "초급토익어휘_10주_2교시.pdf",
+    "sentence": "We'll be flying to Paris via London for our vacation.",
+    "answer": "via",
+    "start": 25,
+    "end": 28,
+    "meaning": "~을 경유하여",
+    "translation": "우리는파리로갈예정입니다. / 비행기를타고런던을거쳐/ 휴가를",
+    "blanks": [
+      {
+        "start": 25,
+        "end": 28
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "via",
+        "meaning": "~을 경유하여",
+        "blanks": [
+          {
+            "start": 25,
+            "end": 28
+          }
+        ],
+        "start": 25,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "id": "w10l2p9-e26c80c1efad",
+    "week": 10,
+    "lesson": 2,
+    "page": 9,
+    "file": "초급토익어휘_10주_2교시.pdf",
+    "sentence": "Upon landing, I proceeded to Boarding Gate 1 to catch my connecting flight.",
+    "answer": "proceeded to Boarding Gate 1",
+    "start": 16,
+    "end": 44,
+    "meaning": "1번 탑승구로 이동했다",
+    "translation": "착륙후/ 탑승구1번으로이동했습니다. / 연결편을타기위해",
+    "blanks": [
+      {
+        "start": 16,
+        "end": 44
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "proceeded to Boarding Gate 1",
+        "meaning": "1번 탑승구로 이동했다",
+        "blanks": [
+          {
+            "start": 16,
+            "end": 44
+          }
+        ],
+        "start": 16,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "id": "w10l2p11-270d0dd7c4c8",
+    "week": 10,
+    "lesson": 2,
+    "page": 11,
+    "file": "초급토익어휘_10주_2교시.pdf",
+    "sentence": "When you travel internationally, you must declare any items exceeding the customs limits.",
+    "answer": "declare … customs",
+    "start": 42,
+    "end": 81,
+    "meaning": "세관에 신고하다 / 세관",
+    "translation": "해외여행시/ 모두신고해야합니다. / 세관한도를초과하는품목을",
+    "blanks": [
+      {
+        "start": 42,
+        "end": 49
+      },
+      {
+        "start": 74,
+        "end": 81
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "declare",
+        "meaning": "세관에 신고하다",
+        "blanks": [
+          {
+            "start": 42,
+            "end": 49
+          }
+        ],
+        "start": 42,
+        "end": 49
+      },
+      {
+        "answer": "customs",
+        "meaning": "세관",
+        "blanks": [
+          {
+            "start": 74,
+            "end": 81
+          }
+        ],
+        "start": 74,
+        "end": 81
+      }
+    ]
+  },
+  {
+    "id": "w10l2p11-0608270988e8",
+    "week": 10,
+    "lesson": 2,
+    "page": 11,
+    "file": "초급토익어휘_10주_2교시.pdf",
+    "sentence": "I realized my baggage was missing after landing, so I reported it to the lost and found.",
+    "answer": "baggage … missing … lost and found",
+    "start": 14,
+    "end": 87,
+    "meaning": "수하물 / 없어진, 분실된 / 분실물 보관소",
+    "translation": "저는수하물이없어진것을알고/ 착륙후/ 분실물센터에신고했습니다.",
+    "blanks": [
+      {
+        "start": 14,
+        "end": 21
+      },
+      {
+        "start": 26,
+        "end": 33
+      },
+      {
+        "start": 73,
+        "end": 87
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "baggage",
+        "meaning": "수하물",
+        "blanks": [
+          {
+            "start": 14,
+            "end": 21
+          }
+        ],
+        "start": 14,
+        "end": 21
+      },
+      {
+        "answer": "missing",
+        "meaning": "없어진, 분실된",
+        "blanks": [
+          {
+            "start": 26,
+            "end": 33
+          }
+        ],
+        "start": 26,
+        "end": 33
+      },
+      {
+        "answer": "lost and found",
+        "meaning": "분실물 보관소",
+        "blanks": [
+          {
+            "start": 73,
+            "end": 87
+          }
+        ],
+        "start": 73,
+        "end": 87
+      }
+    ]
+  },
+  {
+    "id": "w10l2p13-97877075daf1",
+    "week": 10,
+    "lesson": 2,
+    "page": 13,
+    "file": "초급토익어휘_10주_2교시.pdf",
+    "sentence": "I chose the express mail service for the urgent delivery of the package.",
+    "answer": "express mail service",
+    "start": 12,
+    "end": 32,
+    "meaning": "속달 우편 서비스",
+    "translation": "나는속달우편서비스를선택했습니다. / 택배를긴급하게배송하기위해",
+    "blanks": [
+      {
+        "start": 12,
+        "end": 32
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "express mail service",
+        "meaning": "속달 우편 서비스",
+        "blanks": [
+          {
+            "start": 12,
+            "end": 32
+          }
+        ],
+        "start": 12,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "id": "w10l2p13-9bc63d6d7f1c",
+    "week": 10,
+    "lesson": 2,
+    "page": 13,
+    "file": "초급토익어휘_10주_2교시.pdf",
+    "sentence": "The courier is coming by later to pick up a package for delivery.",
+    "answer": "courier … pick up a package",
+    "start": 4,
+    "end": 51,
+    "meaning": "택배 기사, 배송 업체 / 소포를 수거하다, 찾다",
+    "translation": "택배기사가나중에올예정입니다. / 배송할소포를가지러",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 11
+      },
+      {
+        "start": 34,
+        "end": 51
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "courier",
+        "meaning": "택배 기사, 배송 업체",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 11
+          }
+        ],
+        "start": 4,
+        "end": 11
+      },
+      {
+        "answer": "pick up a package",
+        "meaning": "소포를 수거하다, 찾다",
+        "blanks": [
+          {
+            "start": 34,
+            "end": 51
+          }
+        ],
+        "start": 34,
+        "end": 51
+      }
+    ]
+  },
+  {
+    "id": "w10l2p14-19d397a9866a",
+    "week": 10,
+    "lesson": 2,
+    "page": 14,
+    "file": "초급토익어휘_10주_2교시.pdf",
+    "sentence": "I always choose the regular delivery option for non-urgent items.",
+    "answer": "regular delivery",
+    "start": 20,
+    "end": 36,
+    "meaning": "일반 배송",
+    "translation": "나는항상일반배송옵션을선택합니다. / 긴급하지않은품목에대해서는",
+    "blanks": [
+      {
+        "start": 20,
+        "end": 36
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "regular delivery",
+        "meaning": "일반 배송",
+        "blanks": [
+          {
+            "start": 20,
+            "end": 36
+          }
+        ],
+        "start": 20,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "id": "w10l2p14-3c2c5ca9edf1",
+    "week": 10,
+    "lesson": 2,
+    "page": 14,
+    "file": "초급토익어휘_10주_2교시.pdf",
+    "sentence": "I'm worried about the fragile item I ordered, so I'll choose the breakable package option.",
+    "answer": "breakable",
+    "start": 65,
+    "end": 74,
+    "meaning": "깨지기 쉬운",
+    "translation": "주문한상품이깨지기쉬울까걱정되어서/ 깨지기쉬운소포옵션을선택하겠습니다.",
+    "blanks": [
+      {
+        "start": 65,
+        "end": 74
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "breakable",
+        "meaning": "깨지기 쉬운",
+        "blanks": [
+          {
+            "start": 65,
+            "end": 74
+          }
+        ],
+        "start": 65,
+        "end": 74
+      }
+    ]
+  },
+  {
+    "id": "w10l2p16-dc76ef9e1696",
+    "week": 10,
+    "lesson": 2,
+    "page": 16,
+    "file": "초급토익어휘_10주_2교시.pdf",
+    "sentence": "The company will dispatch the items using expedited shipping to ensure quick delivery.",
+    "answer": "dispatch … expedited",
+    "start": 17,
+    "end": 51,
+    "meaning": "발송하다; 발송 / 신속하게 처리된",
+    "translation": "회사는신속배송을이용하여발송해드립니다. / 빠른배송을위해",
+    "blanks": [
+      {
+        "start": 17,
+        "end": 25
+      },
+      {
+        "start": 42,
+        "end": 51
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "dispatch",
+        "meaning": "발송하다; 발송",
+        "blanks": [
+          {
+            "start": 17,
+            "end": 25
+          }
+        ],
+        "start": 17,
+        "end": 25
+      },
+      {
+        "answer": "expedited",
+        "meaning": "신속하게 처리된",
+        "blanks": [
+          {
+            "start": 42,
+            "end": 51
+          }
+        ],
+        "start": 42,
+        "end": 51
+      }
+    ]
+  },
+  {
+    "id": "w10l2p16-289e1740a4fe",
+    "week": 10,
+    "lesson": 2,
+    "page": 16,
+    "file": "초급토익어휘_10주_2교시.pdf",
+    "sentence": "The package includes an enclosure with important documents.",
+    "answer": "enclosure",
+    "start": 24,
+    "end": 33,
+    "meaning": "동봉물",
+    "translation": "패키지에는동봉물이포함되어있습니다. / 중요한문서가담긴",
+    "blanks": [
+      {
+        "start": 24,
+        "end": 33
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "enclosure",
+        "meaning": "동봉물",
+        "blanks": [
+          {
+            "start": 24,
+            "end": 33
+          }
+        ],
+        "start": 24,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "id": "w11l1p5-3b90434a6c79",
+    "week": 11,
+    "lesson": 1,
+    "page": 5,
+    "file": "초급토익어휘_11주_1교시.pdf",
+    "sentence": "The travel itinerary includes a visit to the exotic attraction.",
+    "answer": "itinerary … exotic attraction",
+    "start": 11,
+    "end": 62,
+    "meaning": "여행 일정 / 이국적인 관광 명소",
+    "translation": "여행일정에는포함됩니다. / 이국적인명소를방문하는것이",
+    "blanks": [
+      {
+        "start": 11,
+        "end": 20
+      },
+      {
+        "start": 45,
+        "end": 62
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "itinerary",
+        "meaning": "여행 일정",
+        "blanks": [
+          {
+            "start": 11,
+            "end": 20
+          }
+        ],
+        "start": 11,
+        "end": 20
+      },
+      {
+        "answer": "exotic attraction",
+        "meaning": "이국적인 관광 명소",
+        "blanks": [
+          {
+            "start": 45,
+            "end": 62
+          }
+        ],
+        "start": 45,
+        "end": 62
+      }
+    ]
+  },
+  {
+    "id": "w11l1p5-781049cdf649",
+    "week": 11,
+    "lesson": 1,
+    "page": 5,
+    "file": "초급토익어휘_11주_1교시.pdf",
+    "sentence": "When you locate the famous landmark on the map, you'll find it's a must-see attraction during your trip.",
+    "answer": "locate … attraction",
+    "start": 9,
+    "end": 86,
+    "meaning": "위치를 찾다 / 관광 명소",
+    "translation": "지도에서유명한랜드마크를찾으면/ 알게될것입니다. / 여행중꼭봐야할명소라는것을",
+    "blanks": [
+      {
+        "start": 9,
+        "end": 15
+      },
+      {
+        "start": 76,
+        "end": 86
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "locate",
+        "meaning": "위치를 찾다",
+        "blanks": [
+          {
+            "start": 9,
+            "end": 15
+          }
+        ],
+        "start": 9,
+        "end": 15
+      },
+      {
+        "answer": "attraction",
+        "meaning": "관광 명소",
+        "blanks": [
+          {
+            "start": 76,
+            "end": 86
+          }
+        ],
+        "start": 76,
+        "end": 86
+      }
+    ]
+  },
+  {
+    "id": "w11l1p5-fca872a5f4ec",
+    "week": 11,
+    "lesson": 1,
+    "page": 5,
+    "file": "초급토익어휘_11주_1교시.pdf",
+    "sentence": "The company arranged a factory tour for the new employees to  familiarize them with the production process.",
+    "answer": "tour",
+    "start": 31,
+    "end": 35,
+    "meaning": "견학, 관광",
+    "translation": "회사에서는마련했습니다. / 공장견학을/ 신입사원들이생산과정을익히도록",
+    "blanks": [
+      {
+        "start": 31,
+        "end": 35
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "tour",
+        "meaning": "견학, 관광",
+        "blanks": [
+          {
+            "start": 31,
+            "end": 35
+          }
+        ],
+        "start": 31,
+        "end": 35
+      }
+    ]
+  },
+  {
+    "id": "w11l1p7-72c2666941c9",
+    "week": 11,
+    "lesson": 1,
+    "page": 7,
+    "file": "초급토익어휘_11주_1교시.pdf",
+    "sentence": "After your arrival at the destination, you can collect your luggage.",
+    "answer": "arrival … destination",
+    "start": 11,
+    "end": 37,
+    "meaning": "도착 / 목적지",
+    "translation": "목적지도착후/ 수하물을찾으시면됩니다.",
+    "blanks": [
+      {
+        "start": 11,
+        "end": 18
+      },
+      {
+        "start": 26,
+        "end": 37
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "arrival",
+        "meaning": "도착",
+        "blanks": [
+          {
+            "start": 11,
+            "end": 18
+          }
+        ],
+        "start": 11,
+        "end": 18
+      },
+      {
+        "answer": "destination",
+        "meaning": "목적지",
+        "blanks": [
+          {
+            "start": 26,
+            "end": 37
+          }
+        ],
+        "start": 26,
+        "end": 37
+      }
+    ]
+  },
+  {
+    "id": "w11l1p7-a0dd09e41d0c",
+    "week": 11,
+    "lesson": 1,
+    "page": 7,
+    "file": "초급토익어휘_11주_1교시.pdf",
+    "sentence": "The flight attendant welcomed the passengers on board and provided safety instructions.",
+    "answer": "passengers on board",
+    "start": 34,
+    "end": 53,
+    "meaning": "탑승한 승객들",
+    "translation": "승무원은탑승한승객을환영하고/ 안전지침을제공했습니다.",
+    "blanks": [
+      {
+        "start": 34,
+        "end": 53
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "passengers on board",
+        "meaning": "탑승한 승객들",
+        "blanks": [
+          {
+            "start": 34,
+            "end": 53
+          }
+        ],
+        "start": 34,
+        "end": 53
+      }
+    ]
+  },
+  {
+    "id": "w11l1p9-3c2e3e1a90fd",
+    "week": 11,
+    "lesson": 1,
+    "page": 9,
+    "file": "초급토익어휘_11주_1교시.pdf",
+    "sentence": "Exploring the city's landmarks is a way to release the fatigue of  everyday routine.",
+    "answer": "landmarks … fatigue",
+    "start": 21,
+    "end": 62,
+    "meaning": "랜드마크, 주요 명소 / 피로",
+    "translation": "도시의랜드마크를탐험하는것은/ 한가지방법입니다. / 일상의피로를풀어주는",
+    "blanks": [
+      {
+        "start": 21,
+        "end": 30
+      },
+      {
+        "start": 55,
+        "end": 62
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "landmarks",
+        "meaning": "랜드마크, 주요 명소",
+        "blanks": [
+          {
+            "start": 21,
+            "end": 30
+          }
+        ],
+        "start": 21,
+        "end": 30
+      },
+      {
+        "answer": "fatigue",
+        "meaning": "피로",
+        "blanks": [
+          {
+            "start": 55,
+            "end": 62
+          }
+        ],
+        "start": 55,
+        "end": 62
+      }
+    ]
+  },
+  {
+    "id": "w11l1p9-ea31a5b6a078",
+    "week": 11,
+    "lesson": 1,
+    "page": 9,
+    "file": "초급토익어휘_11주_1교시.pdf",
+    "sentence": "Are you planning to go on a trip during the upcoming holiday season?",
+    "answer": "go on a trip",
+    "start": 20,
+    "end": 32,
+    "meaning": "여행을 가다",
+    "translation": "당신은여행을계획중이신가요? / 다가오는연휴에",
+    "blanks": [
+      {
+        "start": 20,
+        "end": 32
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "go on a trip",
+        "meaning": "여행을 가다",
+        "blanks": [
+          {
+            "start": 20,
+            "end": 32
+          }
+        ],
+        "start": 20,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "id": "w11l1p10-297c1f773191",
+    "week": 11,
+    "lesson": 1,
+    "page": 10,
+    "file": "초급토익어휘_11주_1교시.pdf",
+    "sentence": "Families often choose to go on a vacation to popular beach during the summer.",
+    "answer": "go on a vacation",
+    "start": 25,
+    "end": 41,
+    "meaning": "휴가를 떠나다",
+    "translation": "가족들은휴가를떠나는경우가많습니다. / 인기있는해변으로/ 여름기간동안",
+    "blanks": [
+      {
+        "start": 25,
+        "end": 41
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "go on a vacation",
+        "meaning": "휴가를 떠나다",
+        "blanks": [
+          {
+            "start": 25,
+            "end": 41
+          }
+        ],
+        "start": 25,
+        "end": 41
+      }
+    ]
+  },
+  {
+    "id": "w11l1p10-53b49de753c7",
+    "week": 11,
+    "lesson": 1,
+    "page": 10,
+    "file": "초급토익어휘_11주_1교시.pdf",
+    "sentence": "The school organized an educational excursion to the science museum.",
+    "answer": "excursion",
+    "start": 36,
+    "end": 45,
+    "meaning": "견학, 짧은 단체 여행",
+    "translation": "학교는교육여행을계획했습니다. / 과학박물관으로",
+    "blanks": [
+      {
+        "start": 36,
+        "end": 45
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "excursion",
+        "meaning": "견학, 짧은 단체 여행",
+        "blanks": [
+          {
+            "start": 36,
+            "end": 45
+          }
+        ],
+        "start": 36,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "id": "w11l1p12-45917d6133af",
+    "week": 11,
+    "lesson": 1,
+    "page": 12,
+    "file": "초급토익어휘_11주_1교시.pdf",
+    "sentence": "As I was packing my suitcase for the trip, I realized I needed more space for souvenirs.",
+    "answer": "suitcase … souvenirs",
+    "start": 20,
+    "end": 87,
+    "meaning": "여행 가방 / 기념품",
+    "translation": "나는여행을위해여행가방을챙기면서/ 깨달았습니다. / 공간이더필요하다는것을/ 기념품을보관할",
+    "blanks": [
+      {
+        "start": 20,
+        "end": 28
+      },
+      {
+        "start": 78,
+        "end": 87
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "suitcase",
+        "meaning": "여행 가방",
+        "blanks": [
+          {
+            "start": 20,
+            "end": 28
+          }
+        ],
+        "start": 20,
+        "end": 28
+      },
+      {
+        "answer": "souvenirs",
+        "meaning": "기념품",
+        "blanks": [
+          {
+            "start": 78,
+            "end": 87
+          }
+        ],
+        "start": 78,
+        "end": 87
+      }
+    ]
+  },
+  {
+    "id": "w11l1p12-e53e60da4af7",
+    "week": 11,
+    "lesson": 1,
+    "page": 12,
+    "file": "초급토익어휘_11주_1교시.pdf",
+    "sentence": "The layover in Singapore allowed us to explore the city's attractions.",
+    "answer": "layover … attractions",
+    "start": 4,
+    "end": 69,
+    "meaning": "경유지 체류, 중간 기착 / 관광 명소들",
+    "translation": "싱가포르에서체류하면서/ 우리는그도시의명소를탐험할수있었습니다.",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 11
+      },
+      {
+        "start": 58,
+        "end": 69
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "layover",
+        "meaning": "경유지 체류, 중간 기착",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 11
+          }
+        ],
+        "start": 4,
+        "end": 11
+      },
+      {
+        "answer": "attractions",
+        "meaning": "관광 명소들",
+        "blanks": [
+          {
+            "start": 58,
+            "end": 69
+          }
+        ],
+        "start": 58,
+        "end": 69
+      }
+    ]
+  },
+  {
+    "id": "w11l2p5-38a729cd1ef7",
+    "week": 11,
+    "lesson": 2,
+    "page": 5,
+    "file": "초급토익어휘_11주_2교시.pdf",
+    "sentence": "Guests can conveniently check in at the reception desk upon arrival at  the hotel.",
+    "answer": "check in … reception desk",
+    "start": 24,
+    "end": 54,
+    "meaning": "체크인하다, 투숙 수속을 하다 / 접수대, 프런트 데스크",
+    "translation": "손님들은편리하게체크인하실수있습니다. / 리셉션데스크에서/ 호텔도착시에",
+    "blanks": [
+      {
+        "start": 24,
+        "end": 32
+      },
+      {
+        "start": 40,
+        "end": 54
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "check in",
+        "meaning": "체크인하다, 투숙 수속을 하다",
+        "blanks": [
+          {
+            "start": 24,
+            "end": 32
+          }
+        ],
+        "start": 24,
+        "end": 32
+      },
+      {
+        "answer": "reception desk",
+        "meaning": "접수대, 프런트 데스크",
+        "blanks": [
+          {
+            "start": 40,
+            "end": 54
+          }
+        ],
+        "start": 40,
+        "end": 54
+      }
+    ]
+  },
+  {
+    "id": "w11l2p5-ce6bd689f4dc",
+    "week": 11,
+    "lesson": 2,
+    "page": 5,
+    "file": "초급토익어휘_11주_2교시.pdf",
+    "sentence": "The hotel offers complimentary breakfast for all guests during their stay.",
+    "answer": "complimentary … stay",
+    "start": 17,
+    "end": 73,
+    "meaning": "무료의 / 숙박, 체류",
+    "translation": "호텔은무료아침식사를제공합니다. / 모든투숙객에게/ 숙박기간동안",
+    "blanks": [
+      {
+        "start": 17,
+        "end": 30
+      },
+      {
+        "start": 69,
+        "end": 73
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "complimentary",
+        "meaning": "무료의",
+        "blanks": [
+          {
+            "start": 17,
+            "end": 30
+          }
+        ],
+        "start": 17,
+        "end": 30
+      },
+      {
+        "answer": "stay",
+        "meaning": "숙박, 체류",
+        "blanks": [
+          {
+            "start": 69,
+            "end": 73
+          }
+        ],
+        "start": 69,
+        "end": 73
+      }
+    ]
+  },
+  {
+    "id": "w11l2p5-173341bb3d59",
+    "week": 11,
+    "lesson": 2,
+    "page": 5,
+    "file": "초급토익어휘_11주_2교시.pdf",
+    "sentence": "Before you leave on business trip, make sure to fill out the necessary  paperwork for travel expenses.",
+    "answer": "leave on business trip … fill out … travel expenses",
+    "start": 11,
+    "end": 101,
+    "meaning": "출장을 떠나다 / 서류를 작성하다 / 여행 경비, 출장비",
+    "translation": "출장전에/ 반드시작성하시기바랍니다. / 필요한서류를/ 출장경비에관한",
+    "blanks": [
+      {
+        "start": 11,
+        "end": 33
+      },
+      {
+        "start": 48,
+        "end": 56
+      },
+      {
+        "start": 86,
+        "end": 101
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "leave on business trip",
+        "meaning": "출장을 떠나다",
+        "blanks": [
+          {
+            "start": 11,
+            "end": 33
+          }
+        ],
+        "start": 11,
+        "end": 33
+      },
+      {
+        "answer": "fill out",
+        "meaning": "서류를 작성하다",
+        "blanks": [
+          {
+            "start": 48,
+            "end": 56
+          }
+        ],
+        "start": 48,
+        "end": 56
+      },
+      {
+        "answer": "travel expenses",
+        "meaning": "여행 경비, 출장비",
+        "blanks": [
+          {
+            "start": 86,
+            "end": 101
+          }
+        ],
+        "start": 86,
+        "end": 101
+      }
+    ]
+  },
+  {
+    "id": "w11l2p6-f4d042aca0fb",
+    "week": 11,
+    "lesson": 2,
+    "page": 6,
+    "file": "초급토익어휘_11주_2교시.pdf",
+    "sentence": "The spacious conference room can accommodate up to 100 people for  meetings and events.",
+    "answer": "accommodate",
+    "start": 33,
+    "end": 44,
+    "meaning": "수용하다",
+    "translation": "넓은회의실은수용할수있습니다. / 최대100명까지/ 회의및행사를위해",
+    "blanks": [
+      {
+        "start": 33,
+        "end": 44
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "accommodate",
+        "meaning": "수용하다",
+        "blanks": [
+          {
+            "start": 33,
+            "end": 44
+          }
+        ],
+        "start": 33,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "id": "w11l2p6-a7a7d00bab43",
+    "week": 11,
+    "lesson": 2,
+    "page": 6,
+    "file": "초급토익어휘_11주_2교시.pdf",
+    "sentence": "The room reservation includes complimentary breakfast and access to  all the hotel's amenities like free Wi-Fi, a gym, and a business center.",
+    "answer": "room reservation … complimentary … amenities",
+    "start": 4,
+    "end": 94,
+    "meaning": "객실 예약 / 무료의 / 편의 시설",
+    "translation": "객실예약에는포함되어있습니다. / 무료아침식사와/ 호텔의모든편의시설이용이 무료Wi-Fi, 체육관, 비즈니스센터등",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 20
+      },
+      {
+        "start": 30,
+        "end": 43
+      },
+      {
+        "start": 85,
+        "end": 94
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "room reservation",
+        "meaning": "객실 예약",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 20
+          }
+        ],
+        "start": 4,
+        "end": 20
+      },
+      {
+        "answer": "complimentary",
+        "meaning": "무료의",
+        "blanks": [
+          {
+            "start": 30,
+            "end": 43
+          }
+        ],
+        "start": 30,
+        "end": 43
+      },
+      {
+        "answer": "amenities",
+        "meaning": "편의 시설",
+        "blanks": [
+          {
+            "start": 85,
+            "end": 94
+          }
+        ],
+        "start": 85,
+        "end": 94
+      }
+    ]
+  },
+  {
+    "id": "w11l2p8-bae2d9a4d5c4",
+    "week": 11,
+    "lesson": 2,
+    "page": 8,
+    "file": "초급토익어휘_11주_2교시.pdf",
+    "sentence": "It's advisable to book your room in advance during peak travel seasons.",
+    "answer": "book … in advance",
+    "start": 18,
+    "end": 43,
+    "meaning": "예약하다 / 미리",
+    "translation": "좋습니다. / 객실예약을미리하는것이/ 여행성수기에는",
+    "blanks": [
+      {
+        "start": 18,
+        "end": 22
+      },
+      {
+        "start": 33,
+        "end": 43
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "book",
+        "meaning": "예약하다",
+        "blanks": [
+          {
+            "start": 18,
+            "end": 22
+          }
+        ],
+        "start": 18,
+        "end": 22
+      },
+      {
+        "answer": "in advance",
+        "meaning": "미리",
+        "blanks": [
+          {
+            "start": 33,
+            "end": 43
+          }
+        ],
+        "start": 33,
+        "end": 43
+      }
+    ]
+  },
+  {
+    "id": "w11l2p8-70c5407a3c91",
+    "week": 11,
+    "lesson": 2,
+    "page": 8,
+    "file": "초급토익어휘_11주_2교시.pdf",
+    "sentence": "When you check out, make sure to gather all your belongings from the room.",
+    "answer": "check out … belongings",
+    "start": 9,
+    "end": 59,
+    "meaning": "체크아웃하다, 퇴실 수속을 하다 / 소지품",
+    "translation": "체크아웃할때는/ 확인해주세요. / 소지품을모두정리하시기를/ 객실에있는",
+    "blanks": [
+      {
+        "start": 9,
+        "end": 18
+      },
+      {
+        "start": 49,
+        "end": 59
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "check out",
+        "meaning": "체크아웃하다, 퇴실 수속을 하다",
+        "blanks": [
+          {
+            "start": 9,
+            "end": 18
+          }
+        ],
+        "start": 9,
+        "end": 18
+      },
+      {
+        "answer": "belongings",
+        "meaning": "소지품",
+        "blanks": [
+          {
+            "start": 49,
+            "end": 59
+          }
+        ],
+        "start": 49,
+        "end": 59
+      }
+    ]
+  },
+  {
+    "id": "w11l2p8-006c872b0d78",
+    "week": 11,
+    "lesson": 2,
+    "page": 8,
+    "file": "초급토익어휘_11주_2교시.pdf",
+    "sentence": "The hotel had high occupancy rates during the holiday season.",
+    "answer": "occupancy",
+    "start": 19,
+    "end": 28,
+    "meaning": "객실 이용, 투숙",
+    "translation": "호텔이용률이높았습니다. / 연휴기간동안",
+    "blanks": [
+      {
+        "start": 19,
+        "end": 28
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "occupancy",
+        "meaning": "객실 이용, 투숙",
+        "blanks": [
+          {
+            "start": 19,
+            "end": 28
+          }
+        ],
+        "start": 19,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "id": "w11l2p10-8f0e3a56a1e1",
+    "week": 11,
+    "lesson": 2,
+    "page": 10,
+    "file": "초급토익어휘_11주_2교시.pdf",
+    "sentence": "The travel agency can help you apply for a visa and reserve a hotel room at your destination.",
+    "answer": "travel agency … apply for … reserve a hotel room",
+    "start": 4,
+    "end": 72,
+    "meaning": "여행사 / ~을 신청하다 / 호텔 객실을 예약하다",
+    "translation": "여행사는도와드릴수있습니다. / 당신이비자신청하는것과목적지의호텔객실예약을",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 17
+      },
+      {
+        "start": 31,
+        "end": 40
+      },
+      {
+        "start": 52,
+        "end": 72
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "travel agency",
+        "meaning": "여행사",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 17
+          }
+        ],
+        "start": 4,
+        "end": 17
+      },
+      {
+        "answer": "apply for",
+        "meaning": "~을 신청하다",
+        "blanks": [
+          {
+            "start": 31,
+            "end": 40
+          }
+        ],
+        "start": 31,
+        "end": 40
+      },
+      {
+        "answer": "reserve a hotel room",
+        "meaning": "호텔 객실을 예약하다",
+        "blanks": [
+          {
+            "start": 52,
+            "end": 72
+          }
+        ],
+        "start": 52,
+        "end": 72
+      }
+    ]
+  },
+  {
+    "id": "w11l2p10-a4d872b2186d",
+    "week": 11,
+    "lesson": 2,
+    "page": 10,
+    "file": "초급토익어휘_11주_2교시.pdf",
+    "sentence": "The hospitality of the hotel staff was amazing; they made sure every  guest felt comfortable during their stay.",
+    "answer": "hospitality",
+    "start": 4,
+    "end": 15,
+    "meaning": "환대, 접대",
+    "translation": "호텔직원의환대는놀라웠습니다. / 그들은모든손님이편안함을느낄수있도록 했습니다. / 머무는동안",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 15
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "hospitality",
+        "meaning": "환대, 접대",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 15
+          }
+        ],
+        "start": 4,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "id": "w11l2p12-6e98acc4f2cf",
+    "week": 11,
+    "lesson": 2,
+    "page": 12,
+    "file": "초급토익어휘_11주_2교시.pdf",
+    "sentence": "The gourmet cuisine served at the banquet featured unique ingredients.",
+    "answer": "gourmet cuisine … banquet … ingredients",
+    "start": 4,
+    "end": 69,
+    "meaning": "고급 요리 / 연회 / 재료, 성분",
+    "translation": "연회에서제공되는고급요리에는/ 독특한재료가사용되었습니다.",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 19
+      },
+      {
+        "start": 34,
+        "end": 41
+      },
+      {
+        "start": 58,
+        "end": 69
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "gourmet cuisine",
+        "meaning": "고급 요리",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 19
+          }
+        ],
+        "start": 4,
+        "end": 19
+      },
+      {
+        "answer": "banquet",
+        "meaning": "연회",
+        "blanks": [
+          {
+            "start": 34,
+            "end": 41
+          }
+        ],
+        "start": 34,
+        "end": 41
+      },
+      {
+        "answer": "ingredients",
+        "meaning": "재료, 성분",
+        "blanks": [
+          {
+            "start": 58,
+            "end": 69
+          }
+        ],
+        "start": 58,
+        "end": 69
+      }
+    ]
+  },
+  {
+    "id": "w11l2p12-1796adbd80d5",
+    "week": 11,
+    "lesson": 2,
+    "page": 12,
+    "file": "초급토익어휘_11주_2교시.pdf",
+    "sentence": "The event organizer provided the attendees with a variety of beverages and refreshments.",
+    "answer": "beverages … refreshments",
+    "start": 61,
+    "end": 87,
+    "meaning": "음료 / 다과, 가벼운 음식과 음료",
+    "translation": "행사주최자는참석자들에게제공했습니다. / 다양한음료와다과를",
+    "blanks": [
+      {
+        "start": 61,
+        "end": 70
+      },
+      {
+        "start": 75,
+        "end": 87
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "beverages",
+        "meaning": "음료",
+        "blanks": [
+          {
+            "start": 61,
+            "end": 70
+          }
+        ],
+        "start": 61,
+        "end": 70
+      },
+      {
+        "answer": "refreshments",
+        "meaning": "다과, 가벼운 음식과 음료",
+        "blanks": [
+          {
+            "start": 75,
+            "end": 87
+          }
+        ],
+        "start": 75,
+        "end": 87
+      }
+    ]
+  },
+  {
+    "id": "w11l2p14-fdc7fc0b5bff",
+    "week": 11,
+    "lesson": 2,
+    "page": 14,
+    "file": "초급토익어휘_11주_2교시.pdf",
+    "sentence": "The concierge at the hotel greeted us with courteous and warm hospitality.",
+    "answer": "concierge … courteous and warm hospitality",
+    "start": 4,
+    "end": 73,
+    "meaning": "호텔 접객 담당자, 안내인 / 정중하고 따뜻한 환대",
+    "translation": "호텔접객담당자는/ 우리를정중하고따뜻한환대를해주었습니다.",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 13
+      },
+      {
+        "start": 43,
+        "end": 73
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "concierge",
+        "meaning": "호텔 접객 담당자, 안내인",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 13
+          }
+        ],
+        "start": 4,
+        "end": 13
+      },
+      {
+        "answer": "courteous and warm hospitality",
+        "meaning": "정중하고 따뜻한 환대",
+        "blanks": [
+          {
+            "start": 43,
+            "end": 73
+          }
+        ],
+        "start": 43,
+        "end": 73
+      }
+    ]
+  },
+  {
+    "id": "w11l2p14-400f9447f3f0",
+    "week": 11,
+    "lesson": 2,
+    "page": 14,
+    "file": "초급토익어휘_11주_2교시.pdf",
+    "sentence": "If you'd like, you can request a wake-up call from the front desk.",
+    "answer": "wake-up call",
+    "start": 33,
+    "end": 45,
+    "meaning": "모닝콜",
+    "translation": "원하시면/ 이른아침계획을모닝콜을요청하실수있습니다. / 프런트데스크에",
+    "blanks": [
+      {
+        "start": 33,
+        "end": 45
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "wake-up call",
+        "meaning": "모닝콜",
+        "blanks": [
+          {
+            "start": 33,
+            "end": 45
+          }
+        ],
+        "start": 33,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "id": "w11l2p14-4f07c7c496c5",
+    "week": 11,
+    "lesson": 2,
+    "page": 14,
+    "file": "초급토익어휘_11주_2교시.pdf",
+    "sentence": "The hotel provides a daily breakfast buffet for all guests staying in the suites.",
+    "answer": "suites",
+    "start": 74,
+    "end": 80,
+    "meaning": "스위트룸",
+    "translation": "그호텔은매일조식뷔페를제공합니다. / 모든투숙객에게/ 스위트룸에숙박하는",
+    "blanks": [
+      {
+        "start": 74,
+        "end": 80
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "suites",
+        "meaning": "스위트룸",
+        "blanks": [
+          {
+            "start": 74,
+            "end": 80
+          }
+        ],
+        "start": 74,
+        "end": 80
+      }
+    ]
+  },
+  {
+    "id": "w12l1p5-af66a86650a2",
+    "week": 12,
+    "lesson": 1,
+    "page": 5,
+    "file": "초급토익어휘_12주_1교시.pdf",
+    "sentence": "Please ensure that your payment is made on time to avoid any overdue charges.",
+    "answer": "payment … overdue charges",
+    "start": 24,
+    "end": 76,
+    "meaning": "지불, 결제 금액 / 연체료",
+    "translation": "결제가제때이루어졌는지확인하십시오. / 연체비용이발생하지않도록",
+    "blanks": [
+      {
+        "start": 24,
+        "end": 31
+      },
+      {
+        "start": 61,
+        "end": 76
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "payment",
+        "meaning": "지불, 결제 금액",
+        "blanks": [
+          {
+            "start": 24,
+            "end": 31
+          }
+        ],
+        "start": 24,
+        "end": 31
+      },
+      {
+        "answer": "overdue charges",
+        "meaning": "연체료",
+        "blanks": [
+          {
+            "start": 61,
+            "end": 76
+          }
+        ],
+        "start": 61,
+        "end": 76
+      }
+    ]
+  },
+  {
+    "id": "w12l1p5-b12185623cf9",
+    "week": 12,
+    "lesson": 1,
+    "page": 5,
+    "file": "초급토익어휘_12주_1교시.pdf",
+    "sentence": "The due date for the invoice payment is approaching; please remit the amount promptly.",
+    "answer": "due … payment … remit",
+    "start": 4,
+    "end": 65,
+    "meaning": "기한이 된, 지불해야 할 / 지불, 결제 금액 / 송금하다",
+    "translation": "청구서지불기한이다가오고있습니다. / 즉시금액을송금하시기바랍니다.",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 7
+      },
+      {
+        "start": 29,
+        "end": 36
+      },
+      {
+        "start": 60,
+        "end": 65
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "due",
+        "meaning": "기한이 된, 지불해야 할",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 7
+          }
+        ],
+        "start": 4,
+        "end": 7
+      },
+      {
+        "answer": "payment",
+        "meaning": "지불, 결제 금액",
+        "blanks": [
+          {
+            "start": 29,
+            "end": 36
+          }
+        ],
+        "start": 29,
+        "end": 36
+      },
+      {
+        "answer": "remit",
+        "meaning": "송금하다",
+        "blanks": [
+          {
+            "start": 60,
+            "end": 65
+          }
+        ],
+        "start": 60,
+        "end": 65
+      }
+    ]
+  },
+  {
+    "id": "w12l1p5-4db0f1c528d2",
+    "week": 12,
+    "lesson": 1,
+    "page": 5,
+    "file": "초급토익어휘_12주_1교시.pdf",
+    "sentence": "If you want to make more money from your deposit, think about using a fixed-term deposit account.",
+    "answer": "deposit … deposit",
+    "start": 41,
+    "end": 88,
+    "meaning": "예금, 예치금 / 예금, 예치금",
+    "translation": "예금으로더많은돈을벌고싶다면/ 정기예금계좌이용을고려해보세요",
+    "blanks": [
+      {
+        "start": 41,
+        "end": 48
+      },
+      {
+        "start": 81,
+        "end": 88
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "deposit",
+        "meaning": "예금, 예치금",
+        "blanks": [
+          {
+            "start": 41,
+            "end": 48
+          }
+        ],
+        "start": 41,
+        "end": 48
+      },
+      {
+        "answer": "deposit",
+        "meaning": "예금, 예치금",
+        "blanks": [
+          {
+            "start": 81,
+            "end": 88
+          }
+        ],
+        "start": 81,
+        "end": 88
+      }
+    ]
+  },
+  {
+    "id": "w12l1p7-5d68e1652192",
+    "week": 12,
+    "lesson": 1,
+    "page": 7,
+    "file": "초급토익어휘_12주_1교시.pdf",
+    "sentence": "Alex received a statement detailing the spending on his account.",
+    "answer": "statement … account",
+    "start": 16,
+    "end": 63,
+    "meaning": "거래 명세서 / 계좌",
+    "translation": "Alex는자세히설명된명세서를받았습니다. / 자신의계좌지출내역에대한",
+    "blanks": [
+      {
+        "start": 16,
+        "end": 25
+      },
+      {
+        "start": 56,
+        "end": 63
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "statement",
+        "meaning": "거래 명세서",
+        "blanks": [
+          {
+            "start": 16,
+            "end": 25
+          }
+        ],
+        "start": 16,
+        "end": 25
+      },
+      {
+        "answer": "account",
+        "meaning": "계좌",
+        "blanks": [
+          {
+            "start": 56,
+            "end": 63
+          }
+        ],
+        "start": 56,
+        "end": 63
+      }
+    ]
+  },
+  {
+    "id": "w12l1p7-5ee58ddf0643",
+    "week": 12,
+    "lesson": 1,
+    "page": 7,
+    "file": "초급토익어휘_12주_1교시.pdf",
+    "sentence": "The monthly bill for utilities and services was higher than expected.",
+    "answer": "bill",
+    "start": 12,
+    "end": 16,
+    "meaning": "청구서",
+    "translation": "월별유틸리티(수도, 전기) 및서비스청구서가예상보다높았습니다.",
+    "blanks": [
+      {
+        "start": 12,
+        "end": 16
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "bill",
+        "meaning": "청구서",
+        "blanks": [
+          {
+            "start": 12,
+            "end": 16
+          }
+        ],
+        "start": 12,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "id": "w12l1p8-ebc245ca0590",
+    "week": 12,
+    "lesson": 1,
+    "page": 8,
+    "file": "초급토익어휘_12주_1교시.pdf",
+    "sentence": "The company's spending on marketing increased significantly last  quarter.",
+    "answer": "spending",
+    "start": 14,
+    "end": 22,
+    "meaning": "지출",
+    "translation": "회사의마케팅부문지출이크게증가했습니다. / 지난분기에",
+    "blanks": [
+      {
+        "start": 14,
+        "end": 22
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "spending",
+        "meaning": "지출",
+        "blanks": [
+          {
+            "start": 14,
+            "end": 22
+          }
+        ],
+        "start": 14,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "id": "w12l1p8-64e59c7b09ca",
+    "week": 12,
+    "lesson": 1,
+    "page": 8,
+    "file": "초급토익어휘_12주_1교시.pdf",
+    "sentence": "The bank offers low-interest loans to customers for purchasing a house.",
+    "answer": "loans",
+    "start": 29,
+    "end": 34,
+    "meaning": "대출, 대출금",
+    "translation": "은행은저금리대출을제공합니다. / 주택구입고객에게",
+    "blanks": [
+      {
+        "start": 29,
+        "end": 34
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "loans",
+        "meaning": "대출, 대출금",
+        "blanks": [
+          {
+            "start": 29,
+            "end": 34
+          }
+        ],
+        "start": 29,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "id": "w12l1p10-b587d275953a",
+    "week": 12,
+    "lesson": 1,
+    "page": 10,
+    "file": "초급토익어휘_12주_1교시.pdf",
+    "sentence": "The outstanding invoice is payable within 30 days from the date of  receipt.",
+    "answer": "outstanding invoice … payable",
+    "start": 4,
+    "end": 34,
+    "meaning": "미결제 청구서 / 지불해야 하는",
+    "translation": "미결제청구서는지불되어야합니다. / 수령일로부터30일이내에",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 23
+      },
+      {
+        "start": 27,
+        "end": 34
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "outstanding invoice",
+        "meaning": "미결제 청구서",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 23
+          }
+        ],
+        "start": 4,
+        "end": 23
+      },
+      {
+        "answer": "payable",
+        "meaning": "지불해야 하는",
+        "blanks": [
+          {
+            "start": 27,
+            "end": 34
+          }
+        ],
+        "start": 27,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "id": "w12l1p10-6fbec18b9c90",
+    "week": 12,
+    "lesson": 1,
+    "page": 10,
+    "file": "초급토익어휘_12주_1교시.pdf",
+    "sentence": "To clear the balance, please remit the payment.",
+    "answer": "balance … remit … payment",
+    "start": 13,
+    "end": 46,
+    "meaning": "잔액, 미결제 금액 / 송금하다 / 지불, 결제 금액",
+    "translation": "잔액을정산하려면/ 결제금액을송금하세요.",
+    "blanks": [
+      {
+        "start": 13,
+        "end": 20
+      },
+      {
+        "start": 29,
+        "end": 34
+      },
+      {
+        "start": 39,
+        "end": 46
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "balance",
+        "meaning": "잔액, 미결제 금액",
+        "blanks": [
+          {
+            "start": 13,
+            "end": 20
+          }
+        ],
+        "start": 13,
+        "end": 20
+      },
+      {
+        "answer": "remit",
+        "meaning": "송금하다",
+        "blanks": [
+          {
+            "start": 29,
+            "end": 34
+          }
+        ],
+        "start": 29,
+        "end": 34
+      },
+      {
+        "answer": "payment",
+        "meaning": "지불, 결제 금액",
+        "blanks": [
+          {
+            "start": 39,
+            "end": 46
+          }
+        ],
+        "start": 39,
+        "end": 46
+      }
+    ]
+  },
+  {
+    "id": "w12l1p10-f3cff08f01ae",
+    "week": 12,
+    "lesson": 1,
+    "page": 10,
+    "file": "초급토익어휘_12주_1교시.pdf",
+    "sentence": "The customer received the reimbursement for their business expenses promptly.",
+    "answer": "reimbursement",
+    "start": 26,
+    "end": 39,
+    "meaning": "상환, 환급",
+    "translation": "고객은사업비용을신속하게환급받았습니다.",
+    "blanks": [
+      {
+        "start": 26,
+        "end": 39
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "reimbursement",
+        "meaning": "상환, 환급",
+        "blanks": [
+          {
+            "start": 26,
+            "end": 39
+          }
+        ],
+        "start": 26,
+        "end": 39
+      }
+    ]
+  },
+  {
+    "id": "w12l1p12-8707e955ebb4",
+    "week": 12,
+    "lesson": 1,
+    "page": 12,
+    "file": "초급토익어휘_12주_1교시.pdf",
+    "sentence": "She made a large cash withdrawal from her bank account.",
+    "answer": "made … withdrawal … account",
+    "start": 4,
+    "end": 54,
+    "meaning": "인출했다 (make a withdrawal) / 계좌",
+    "translation": "그녀는거액의현금을인출했습니다. / 은행계좌에서",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 8
+      },
+      {
+        "start": 22,
+        "end": 32
+      },
+      {
+        "start": 47,
+        "end": 54
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "made … withdrawal",
+        "meaning": "인출했다 (make a withdrawal)",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 8
+          },
+          {
+            "start": 22,
+            "end": 32
+          }
+        ],
+        "start": 4,
+        "end": 32
+      },
+      {
+        "answer": "account",
+        "meaning": "계좌",
+        "blanks": [
+          {
+            "start": 47,
+            "end": 54
+          }
+        ],
+        "start": 47,
+        "end": 54
+      }
+    ]
+  },
+  {
+    "id": "w12l1p12-62456b5dfc92",
+    "week": 12,
+    "lesson": 1,
+    "page": 12,
+    "file": "초급토익어휘_12주_1교시.pdf",
+    "sentence": "The transaction was completed promptly, and the receipt was handed to  the customer.",
+    "answer": "transaction",
+    "start": 4,
+    "end": 15,
+    "meaning": "거래",
+    "translation": "신속하게거래가완료되었으며/ 고객에게영수증이전달되었습니다.",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 15
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "transaction",
+        "meaning": "거래",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 15
+          }
+        ],
+        "start": 4,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "id": "w12l1p12-c735922e1018",
+    "week": 12,
+    "lesson": 1,
+    "page": 12,
+    "file": "초급토익어휘_12주_1교시.pdf",
+    "sentence": "I went to the currency exchange to convert my dollars into euros for the trip.",
+    "answer": "exchange … convert",
+    "start": 23,
+    "end": 42,
+    "meaning": "환전; 환전소 / 바꾸다, 환전하다",
+    "translation": "나는환전소에갔다. / 달러를유로로바꾸려고/ 여행에필요한",
+    "blanks": [
+      {
+        "start": 23,
+        "end": 31
+      },
+      {
+        "start": 35,
+        "end": 42
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "exchange",
+        "meaning": "환전; 환전소",
+        "blanks": [
+          {
+            "start": 23,
+            "end": 31
+          }
+        ],
+        "start": 23,
+        "end": 31
+      },
+      {
+        "answer": "convert",
+        "meaning": "바꾸다, 환전하다",
+        "blanks": [
+          {
+            "start": 35,
+            "end": 42
+          }
+        ],
+        "start": 35,
+        "end": 42
+      }
+    ]
+  },
+  {
+    "id": "w12l2p5-5f9b9b69bb65",
+    "week": 12,
+    "lesson": 2,
+    "page": 5,
+    "file": "초급토익어휘_12주_2교시.pdf",
+    "sentence": "The accounting department will audit the company's financial statements.",
+    "answer": "accounting … audit",
+    "start": 4,
+    "end": 36,
+    "meaning": "회계 / 회계 감사; 감사하다",
+    "translation": "회계부서에서는감사합니다. / 회사의재무제표를",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 14
+      },
+      {
+        "start": 31,
+        "end": 36
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "accounting",
+        "meaning": "회계",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 14
+          }
+        ],
+        "start": 4,
+        "end": 14
+      },
+      {
+        "answer": "audit",
+        "meaning": "회계 감사; 감사하다",
+        "blanks": [
+          {
+            "start": 31,
+            "end": 36
+          }
+        ],
+        "start": 31,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "id": "w12l2p5-034bac31cb07",
+    "week": 12,
+    "lesson": 2,
+    "page": 5,
+    "file": "초급토익어휘_12주_2교시.pdf",
+    "sentence": "The audit revealed that the company had a deficit in finances.",
+    "answer": "audit … deficit",
+    "start": 4,
+    "end": 49,
+    "meaning": "회계 감사; 감사하다 / 적자, 부족액",
+    "translation": "감사결과적자가발생한것으로나타났습니다. / 회사의재정에",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 9
+      },
+      {
+        "start": 42,
+        "end": 49
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "audit",
+        "meaning": "회계 감사; 감사하다",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 9
+          }
+        ],
+        "start": 4,
+        "end": 9
+      },
+      {
+        "answer": "deficit",
+        "meaning": "적자, 부족액",
+        "blanks": [
+          {
+            "start": 42,
+            "end": 49
+          }
+        ],
+        "start": 42,
+        "end": 49
+      }
+    ]
+  },
+  {
+    "id": "w12l2p6-be275c7785a5",
+    "week": 12,
+    "lesson": 2,
+    "page": 6,
+    "file": "초급토익어휘_12주_2교시.pdf",
+    "sentence": "The accountant will deduct the operational expenses to figure out the net profit.",
+    "answer": "accountant … deduct … figure out",
+    "start": 4,
+    "end": 65,
+    "meaning": "회계사 / 공제하다, 빼다 / 계산하다, 알아내다",
+    "translation": "회계사는운영비용을공제합니다. / 순이익을계산하는데",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 14
+      },
+      {
+        "start": 20,
+        "end": 26
+      },
+      {
+        "start": 55,
+        "end": 65
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "accountant",
+        "meaning": "회계사",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 14
+          }
+        ],
+        "start": 4,
+        "end": 14
+      },
+      {
+        "answer": "deduct",
+        "meaning": "공제하다, 빼다",
+        "blanks": [
+          {
+            "start": 20,
+            "end": 26
+          }
+        ],
+        "start": 20,
+        "end": 26
+      },
+      {
+        "answer": "figure out",
+        "meaning": "계산하다, 알아내다",
+        "blanks": [
+          {
+            "start": 55,
+            "end": 65
+          }
+        ],
+        "start": 55,
+        "end": 65
+      }
+    ]
+  },
+  {
+    "id": "w12l2p6-13faba0ff2f6",
+    "week": 12,
+    "lesson": 2,
+    "page": 6,
+    "file": "초급토익어휘_12주_2교시.pdf",
+    "sentence": "The figures for the sales revenue fluctuated throughout the year.",
+    "answer": "figures … revenue fluctuated",
+    "start": 4,
+    "end": 44,
+    "meaning": "수치들 / 수익이 변동했다",
+    "translation": "판매수익수치는/ 일년내내변동이심하였습니다.",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 11
+      },
+      {
+        "start": 26,
+        "end": 44
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "figures",
+        "meaning": "수치들",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 11
+          }
+        ],
+        "start": 4,
+        "end": 11
+      },
+      {
+        "answer": "revenue fluctuated",
+        "meaning": "수익이 변동했다",
+        "blanks": [
+          {
+            "start": 26,
+            "end": 44
+          }
+        ],
+        "start": 26,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "id": "w12l2p8-c8f97e854c31",
+    "week": 12,
+    "lesson": 2,
+    "page": 8,
+    "file": "초급토익어휘_12주_2교시.pdf",
+    "sentence": "The company's turnover for the last quarter exceeded expectations significantly.",
+    "answer": "turnover … quarter exceeded",
+    "start": 14,
+    "end": 52,
+    "meaning": "매출액 / 분기; 초과했다",
+    "translation": "지난분기회사의매출액은/ 예상을크게뛰어넘었습니다.",
+    "blanks": [
+      {
+        "start": 14,
+        "end": 22
+      },
+      {
+        "start": 36,
+        "end": 52
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "turnover",
+        "meaning": "매출액",
+        "blanks": [
+          {
+            "start": 14,
+            "end": 22
+          }
+        ],
+        "start": 14,
+        "end": 22
+      },
+      {
+        "answer": "quarter exceeded",
+        "meaning": "분기; 초과했다",
+        "blanks": [
+          {
+            "start": 36,
+            "end": 52
+          }
+        ],
+        "start": 36,
+        "end": 52
+      }
+    ]
+  },
+  {
+    "id": "w12l2p8-f35003725039",
+    "week": 12,
+    "lesson": 2,
+    "page": 8,
+    "file": "초급토익어휘_12주_2교시.pdf",
+    "sentence": "The total sales figure for the quarter will be crucial in assessing the company's performance.",
+    "answer": "figure … quarter",
+    "start": 16,
+    "end": 38,
+    "meaning": "수치 / 분기, 사분기",
+    "translation": "해당분기의총매출수치는/ 결정하는데중요합니다. / 회사의성과를평가하는데",
+    "blanks": [
+      {
+        "start": 16,
+        "end": 22
+      },
+      {
+        "start": 31,
+        "end": 38
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "figure",
+        "meaning": "수치",
+        "blanks": [
+          {
+            "start": 16,
+            "end": 22
+          }
+        ],
+        "start": 16,
+        "end": 22
+      },
+      {
+        "answer": "quarter",
+        "meaning": "분기, 사분기",
+        "blanks": [
+          {
+            "start": 31,
+            "end": 38
+          }
+        ],
+        "start": 31,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "id": "w12l2p10-09faedade33c",
+    "week": 12,
+    "lesson": 2,
+    "page": 10,
+    "file": "초급토익어휘_12주_2교시.pdf",
+    "sentence": "They had to curtail their expansion plans due to a limited budget.",
+    "answer": "curtail … budget",
+    "start": 12,
+    "end": 65,
+    "meaning": "줄이다, 축소하다 / 예산",
+    "translation": "그들은확장계획을축소해야했습니다. / 제한된예산으로인해",
+    "blanks": [
+      {
+        "start": 12,
+        "end": 19
+      },
+      {
+        "start": 59,
+        "end": 65
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "curtail",
+        "meaning": "줄이다, 축소하다",
+        "blanks": [
+          {
+            "start": 12,
+            "end": 19
+          }
+        ],
+        "start": 12,
+        "end": 19
+      },
+      {
+        "answer": "budget",
+        "meaning": "예산",
+        "blanks": [
+          {
+            "start": 59,
+            "end": 65
+          }
+        ],
+        "start": 59,
+        "end": 65
+      }
+    ]
+  },
+  {
+    "id": "w12l2p10-4f9bc5bba039",
+    "week": 12,
+    "lesson": 2,
+    "page": 10,
+    "file": "초급토익어휘_12주_2교시.pdf",
+    "sentence": "The government offers tax exemptions for businesses that invest in renewable energy projects.",
+    "answer": "exemptions",
+    "start": 26,
+    "end": 36,
+    "meaning": "면제",
+    "translation": "정부는세금면제를제공합니다. / 기업에대해/ 재생에너지프로젝트에투자하는",
+    "blanks": [
+      {
+        "start": 26,
+        "end": 36
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "exemptions",
+        "meaning": "면제",
+        "blanks": [
+          {
+            "start": 26,
+            "end": 36
+          }
+        ],
+        "start": 26,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "id": "w12l2p10-74d40a896ca2",
+    "week": 12,
+    "lesson": 2,
+    "page": 10,
+    "file": "초급토익어휘_12주_2교시.pdf",
+    "sentence": "The finance department is responsible for calculating the company's profits and losses.",
+    "answer": "finance … calculating",
+    "start": 4,
+    "end": 53,
+    "meaning": "재무, 재정 / 계산하는 것",
+    "translation": "재무부서는담당합니다. / 회사의손익계산을",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 11
+      },
+      {
+        "start": 42,
+        "end": 53
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "finance",
+        "meaning": "재무, 재정",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 11
+          }
+        ],
+        "start": 4,
+        "end": 11
+      },
+      {
+        "answer": "calculating",
+        "meaning": "계산하는 것",
+        "blanks": [
+          {
+            "start": 42,
+            "end": 53
+          }
+        ],
+        "start": 42,
+        "end": 53
+      }
+    ]
+  },
+  {
+    "id": "w12l2p12-36a4554b5d25",
+    "week": 12,
+    "lesson": 2,
+    "page": 12,
+    "file": "초급토익어휘_12주_2교시.pdf",
+    "sentence": "The management team identified areas where they could curtail unnecessary expenditures.",
+    "answer": "curtail … expenditures",
+    "start": 54,
+    "end": 86,
+    "meaning": "줄이다, 축소하다 / 지출, 비용",
+    "translation": "경영진은파악했습니다. / 불필요한지출을줄일수있는영역을",
+    "blanks": [
+      {
+        "start": 54,
+        "end": 61
+      },
+      {
+        "start": 74,
+        "end": 86
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "curtail",
+        "meaning": "줄이다, 축소하다",
+        "blanks": [
+          {
+            "start": 54,
+            "end": 61
+          }
+        ],
+        "start": 54,
+        "end": 61
+      },
+      {
+        "answer": "expenditures",
+        "meaning": "지출, 비용",
+        "blanks": [
+          {
+            "start": 74,
+            "end": 86
+          }
+        ],
+        "start": 74,
+        "end": 86
+      }
+    ]
+  },
+  {
+    "id": "w12l2p12-f0f4c3c0df55",
+    "week": 12,
+    "lesson": 2,
+    "page": 12,
+    "file": "초급토익어휘_12주_2교시.pdf",
+    "sentence": "The proceeds will be used to allocate funds for the construction of a new community center.",
+    "answer": "proceeds … allocate",
+    "start": 4,
+    "end": 37,
+    "meaning": "수익금 / 할당하다, 배분하다",
+    "translation": "모금행사의수익금은기금을배정하는데사용됩니다. / 새로운커뮤니티센터건립을위한",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 12
+      },
+      {
+        "start": 29,
+        "end": 37
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "proceeds",
+        "meaning": "수익금",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 12
+          }
+        ],
+        "start": 4,
+        "end": 12
+      },
+      {
+        "answer": "allocate",
+        "meaning": "할당하다, 배분하다",
+        "blanks": [
+          {
+            "start": 29,
+            "end": 37
+          }
+        ],
+        "start": 29,
+        "end": 37
+      }
+    ]
+  },
+  {
+    "id": "w12l2p14-599bc456a0f5",
+    "week": 12,
+    "lesson": 2,
+    "page": 14,
+    "file": "초급토익어휘_12주_2교시.pdf",
+    "sentence": "The company will reimburse employees for any travel expenses during the business trip.",
+    "answer": "reimburse",
+    "start": 17,
+    "end": 26,
+    "meaning": "비용을 상환하다, 변제하다",
+    "translation": "회사는여비를지급합니다. / 직원의출장중발생한",
+    "blanks": [
+      {
+        "start": 17,
+        "end": 26
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "reimburse",
+        "meaning": "비용을 상환하다, 변제하다",
+        "blanks": [
+          {
+            "start": 17,
+            "end": 26
+          }
+        ],
+        "start": 17,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "id": "w12l2p14-0dafb32b9dac",
+    "week": 12,
+    "lesson": 2,
+    "page": 14,
+    "file": "초급토익어휘_12주_2교시.pdf",
+    "sentence": "The recent inflation in the economy has led to higher prices for goods.",
+    "answer": "inflation",
+    "start": 11,
+    "end": 20,
+    "meaning": "물가 상승, 인플레이션",
+    "translation": "최근경제인플레이션으로인해/ 상품가격이상승했습니다.",
+    "blanks": [
+      {
+        "start": 11,
+        "end": 20
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "inflation",
+        "meaning": "물가 상승, 인플레이션",
+        "blanks": [
+          {
+            "start": 11,
+            "end": 20
+          }
+        ],
+        "start": 11,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "id": "w12l2p14-84dd9da9ffd4",
+    "week": 12,
+    "lesson": 2,
+    "page": 14,
+    "file": "초급토익어휘_12주_2교시.pdf",
+    "sentence": "The deficient supply of raw materials resulted in production delays.",
+    "answer": "deficient",
+    "start": 4,
+    "end": 13,
+    "meaning": "부족한, 불충분한",
+    "translation": "원자재공급부족으로/ 생산이지연되었습니다.",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 13
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "deficient",
+        "meaning": "부족한, 불충분한",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 13
+          }
+        ],
+        "start": 4,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "id": "w13l1p6-2a25d3015074",
+    "week": 13,
+    "lesson": 1,
+    "page": 6,
+    "file": "초급토익어휘_13주_1교시.pdf",
+    "sentence": "The wise investment in real estate turned out to be very profitable.",
+    "answer": "investment … real estate … profitable",
+    "start": 9,
+    "end": 67,
+    "meaning": "투자 / 부동산 / 수익성이 높은",
+    "translation": "부동산에대한현명한투자는/ 매우수익성이높은것으로나타났습니다.",
+    "blanks": [
+      {
+        "start": 9,
+        "end": 19
+      },
+      {
+        "start": 23,
+        "end": 34
+      },
+      {
+        "start": 57,
+        "end": 67
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "investment",
+        "meaning": "투자",
+        "blanks": [
+          {
+            "start": 9,
+            "end": 19
+          }
+        ],
+        "start": 9,
+        "end": 19
+      },
+      {
+        "answer": "real estate",
+        "meaning": "부동산",
+        "blanks": [
+          {
+            "start": 23,
+            "end": 34
+          }
+        ],
+        "start": 23,
+        "end": 34
+      },
+      {
+        "answer": "profitable",
+        "meaning": "수익성이 높은",
+        "blanks": [
+          {
+            "start": 57,
+            "end": 67
+          }
+        ],
+        "start": 57,
+        "end": 67
+      }
+    ]
+  },
+  {
+    "id": "w13l1p6-6f22415e62d9",
+    "week": 13,
+    "lesson": 1,
+    "page": 6,
+    "file": "초급토익어휘_13주_1교시.pdf",
+    "sentence": "Securing a patent can be a valuable asset for startups.",
+    "answer": "asset",
+    "start": 36,
+    "end": 41,
+    "meaning": "자산",
+    "translation": "특허를확보하는것은/ 스타트업회사들에게귀중한자산이될수있습니다.",
+    "blanks": [
+      {
+        "start": 36,
+        "end": 41
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "asset",
+        "meaning": "자산",
+        "blanks": [
+          {
+            "start": 36,
+            "end": 41
+          }
+        ],
+        "start": 36,
+        "end": 41
+      }
+    ]
+  },
+  {
+    "id": "w13l1p6-4daa31df12c3",
+    "week": 13,
+    "lesson": 1,
+    "page": 6,
+    "file": "초급토익어휘_13주_1교시.pdf",
+    "sentence": "The company's most valuable asset is its skilled and dedicated workforce.",
+    "answer": "asset",
+    "start": 28,
+    "end": 33,
+    "meaning": "자산",
+    "translation": "회사의가장귀중한자산은/ 숙련되고헌신적인인력입니다.",
+    "blanks": [
+      {
+        "start": 28,
+        "end": 33
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "asset",
+        "meaning": "자산",
+        "blanks": [
+          {
+            "start": 28,
+            "end": 33
+          }
+        ],
+        "start": 28,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "id": "w13l1p8-a7deecb94681",
+    "week": 13,
+    "lesson": 1,
+    "page": 8,
+    "file": "초급토익어휘_13주_1교시.pdf",
+    "sentence": "The organization is currently in debt but has a long-term plan to pay  it off.",
+    "answer": "debt … long-term",
+    "start": 33,
+    "end": 57,
+    "meaning": "빚, 채무 / 장기적인",
+    "translation": "해당조직은현재빚을지고있지만/ 장기계획을갖고있습니다. / 이를갚을",
+    "blanks": [
+      {
+        "start": 33,
+        "end": 37
+      },
+      {
+        "start": 48,
+        "end": 57
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "debt",
+        "meaning": "빚, 채무",
+        "blanks": [
+          {
+            "start": 33,
+            "end": 37
+          }
+        ],
+        "start": 33,
+        "end": 37
+      },
+      {
+        "answer": "long-term",
+        "meaning": "장기적인",
+        "blanks": [
+          {
+            "start": 48,
+            "end": 57
+          }
+        ],
+        "start": 48,
+        "end": 57
+      }
+    ]
+  },
+  {
+    "id": "w13l1p8-2e203cb69806",
+    "week": 13,
+    "lesson": 1,
+    "page": 8,
+    "file": "초급토익어휘_13주_1교시.pdf",
+    "sentence": "The CEO made a commitment to his workers that he would give shares of stock if the company was successful.",
+    "answer": "made a commitment … shares of stock",
+    "start": 8,
+    "end": 75,
+    "meaning": "약속했다 / 주식",
+    "translation": "CEO는직원들에게약속했습니다. / 주식을주겠다고/ 회사가성공하면",
+    "blanks": [
+      {
+        "start": 8,
+        "end": 25
+      },
+      {
+        "start": 60,
+        "end": 75
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "made a commitment",
+        "meaning": "약속했다",
+        "blanks": [
+          {
+            "start": 8,
+            "end": 25
+          }
+        ],
+        "start": 8,
+        "end": 25
+      },
+      {
+        "answer": "shares of stock",
+        "meaning": "주식",
+        "blanks": [
+          {
+            "start": 60,
+            "end": 75
+          }
+        ],
+        "start": 60,
+        "end": 75
+      }
+    ]
+  },
+  {
+    "id": "w13l1p8-4eae30b9224c",
+    "week": 13,
+    "lesson": 1,
+    "page": 8,
+    "file": "초급토익어휘_13주_1교시.pdf",
+    "sentence": "The company raised a fund to support the local startups.",
+    "answer": "fund",
+    "start": 21,
+    "end": 25,
+    "meaning": "기금, 자금",
+    "translation": "회사는펀드를마련했습니다. / 지역스타트업을지원하기위해",
+    "blanks": [
+      {
+        "start": 21,
+        "end": 25
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "fund",
+        "meaning": "기금, 자금",
+        "blanks": [
+          {
+            "start": 21,
+            "end": 25
+          }
+        ],
+        "start": 21,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "id": "w13l1p10-0b5aca0ab6fc",
+    "week": 13,
+    "lesson": 1,
+    "page": 10,
+    "file": "초급토익어휘_13주_1교시.pdf",
+    "sentence": "Due to financial difficulties, he had to pull out of the project early.",
+    "answer": "financial … pull out of",
+    "start": 7,
+    "end": 52,
+    "meaning": "재정의, 금융의 / ~에서 철수하다, 중도에 그만두다",
+    "translation": "재정적어려움으로인해/ 그는중단해야했습니다. / 프로젝트를조기에",
+    "blanks": [
+      {
+        "start": 7,
+        "end": 16
+      },
+      {
+        "start": 41,
+        "end": 52
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "financial",
+        "meaning": "재정의, 금융의",
+        "blanks": [
+          {
+            "start": 7,
+            "end": 16
+          }
+        ],
+        "start": 7,
+        "end": 16
+      },
+      {
+        "answer": "pull out of",
+        "meaning": "~에서 철수하다, 중도에 그만두다",
+        "blanks": [
+          {
+            "start": 41,
+            "end": 52
+          }
+        ],
+        "start": 41,
+        "end": 52
+      }
+    ]
+  },
+  {
+    "id": "w13l1p10-00083e9b2eab",
+    "week": 13,
+    "lesson": 1,
+    "page": 10,
+    "file": "초급토익어휘_13주_1교시.pdf",
+    "sentence": "I owe the bank a substantial amount of money for my car loan.",
+    "answer": "owe … loan",
+    "start": 2,
+    "end": 60,
+    "meaning": "빚지고 있다 / 대출, 대출금",
+    "translation": "나는은행에상당한금액의빚을지고있습니다. / 자동차대출을위해",
+    "blanks": [
+      {
+        "start": 2,
+        "end": 5
+      },
+      {
+        "start": 56,
+        "end": 60
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "owe",
+        "meaning": "빚지고 있다",
+        "blanks": [
+          {
+            "start": 2,
+            "end": 5
+          }
+        ],
+        "start": 2,
+        "end": 5
+      },
+      {
+        "answer": "loan",
+        "meaning": "대출, 대출금",
+        "blanks": [
+          {
+            "start": 56,
+            "end": 60
+          }
+        ],
+        "start": 56,
+        "end": 60
+      }
+    ]
+  },
+  {
+    "id": "w13l1p10-b17d922d1802",
+    "week": 13,
+    "lesson": 1,
+    "page": 10,
+    "file": "초급토익어휘_13주_1교시.pdf",
+    "sentence": "Investing in the stock market can yield a profitable return.",
+    "answer": "yield … return",
+    "start": 34,
+    "end": 59,
+    "meaning": "수익을 내다, 산출하다 / 투자 수익, 수익률",
+    "translation": "주식시장에투자하면/ 좋은(수익성있는) 투자수익을얻을수있습니다.",
+    "blanks": [
+      {
+        "start": 34,
+        "end": 39
+      },
+      {
+        "start": 53,
+        "end": 59
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "yield",
+        "meaning": "수익을 내다, 산출하다",
+        "blanks": [
+          {
+            "start": 34,
+            "end": 39
+          }
+        ],
+        "start": 34,
+        "end": 39
+      },
+      {
+        "answer": "return",
+        "meaning": "투자 수익, 수익률",
+        "blanks": [
+          {
+            "start": 53,
+            "end": 59
+          }
+        ],
+        "start": 53,
+        "end": 59
+      }
+    ]
+  },
+  {
+    "id": "w13l1p12-4f884c876ed5",
+    "week": 13,
+    "lesson": 1,
+    "page": 12,
+    "file": "초급토익어휘_13주_1교시.pdf",
+    "sentence": "Our company is looking for reliable companies to do business with.",
+    "answer": "do business with",
+    "start": 49,
+    "end": 65,
+    "meaning": "~와 거래하다",
+    "translation": "우리회사는찾고있습니다. / 신뢰할수있는기업을/ 거래할수있는",
+    "blanks": [
+      {
+        "start": 49,
+        "end": 65
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "do business with",
+        "meaning": "~와 거래하다",
+        "blanks": [
+          {
+            "start": 49,
+            "end": 65
+          }
+        ],
+        "start": 49,
+        "end": 65
+      }
+    ]
+  },
+  {
+    "id": "w13l1p12-6b62efd398d9",
+    "week": 13,
+    "lesson": 1,
+    "page": 12,
+    "file": "초급토익어휘_13주_1교시.pdf",
+    "sentence": "It's essential to have all the terms and conditions of the agreement in writing.",
+    "answer": "terms and conditions … in writing",
+    "start": 31,
+    "end": 79,
+    "meaning": "계약 조건, 이용 약관 / 서면으로",
+    "translation": "작성하는것이중요합니다. / 계약의모든이용약관을서면으로",
+    "blanks": [
+      {
+        "start": 31,
+        "end": 51
+      },
+      {
+        "start": 69,
+        "end": 79
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "terms and conditions",
+        "meaning": "계약 조건, 이용 약관",
+        "blanks": [
+          {
+            "start": 31,
+            "end": 51
+          }
+        ],
+        "start": 31,
+        "end": 51
+      },
+      {
+        "answer": "in writing",
+        "meaning": "서면으로",
+        "blanks": [
+          {
+            "start": 69,
+            "end": 79
+          }
+        ],
+        "start": 69,
+        "end": 79
+      }
+    ]
+  },
+  {
+    "id": "w13l1p14-de18f82b623f",
+    "week": 13,
+    "lesson": 1,
+    "page": 14,
+    "file": "초급토익어휘_13주_1교시.pdf",
+    "sentence": "The establishment of a new branch in New York was a strategic move for the company.",
+    "answer": "establishment",
+    "start": 4,
+    "end": 17,
+    "meaning": "설립",
+    "translation": "뉴욕에새로운지점을설립하는것은/ 회사의전략적움직임이었습니다.",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 17
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "establishment",
+        "meaning": "설립",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 17
+          }
+        ],
+        "start": 4,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "id": "w13l1p14-650fb8e05187",
+    "week": 13,
+    "lesson": 1,
+    "page": 14,
+    "file": "초급토익어휘_13주_1교시.pdf",
+    "sentence": "The contract outlines the terms and conditions for the provision of  services.",
+    "answer": "terms and conditions … provision",
+    "start": 26,
+    "end": 64,
+    "meaning": "계약 조건, 이용 약관 / 제공, 공급; 조항",
+    "translation": "계약에는명시되어있습니다. / 계약조건/ 서비스제공조항에대한",
+    "blanks": [
+      {
+        "start": 26,
+        "end": 46
+      },
+      {
+        "start": 55,
+        "end": 64
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "terms and conditions",
+        "meaning": "계약 조건, 이용 약관",
+        "blanks": [
+          {
+            "start": 26,
+            "end": 46
+          }
+        ],
+        "start": 26,
+        "end": 46
+      },
+      {
+        "answer": "provision",
+        "meaning": "제공, 공급; 조항",
+        "blanks": [
+          {
+            "start": 55,
+            "end": 64
+          }
+        ],
+        "start": 55,
+        "end": 64
+      }
+    ]
+  },
+  {
+    "id": "w13l1p14-c9d009f51a41",
+    "week": 13,
+    "lesson": 1,
+    "page": 14,
+    "file": "초급토익어휘_13주_1교시.pdf",
+    "sentence": "The company is based in London but has offices in several major cities worldwide.",
+    "answer": "is based in",
+    "start": 12,
+    "end": 23,
+    "meaning": "~에 본사를 두고 있다",
+    "translation": "회사는런던에본사를두고있지만전세계여러주요도시에사무실을두고있습니다.",
+    "blanks": [
+      {
+        "start": 12,
+        "end": 23
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "is based in",
+        "meaning": "~에 본사를 두고 있다",
+        "blanks": [
+          {
+            "start": 12,
+            "end": 23
+          }
+        ],
+        "start": 12,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "id": "w13l2p6-8f7c3e063959",
+    "week": 13,
+    "lesson": 2,
+    "page": 6,
+    "file": "초급토익어휘_13주_2교시.pdf",
+    "sentence": "The economic analyst watched for indicators during the stagnant period.",
+    "answer": "economic analyst … indicators … stagnant",
+    "start": 4,
+    "end": 63,
+    "meaning": "경제 분석가 / 지표 / 침체된, 정체된",
+    "translation": "경제분석가는관찰했습니다. / 지표를/ 정체기간동안",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 20
+      },
+      {
+        "start": 33,
+        "end": 43
+      },
+      {
+        "start": 55,
+        "end": 63
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "economic analyst",
+        "meaning": "경제 분석가",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 20
+          }
+        ],
+        "start": 4,
+        "end": 20
+      },
+      {
+        "answer": "indicators",
+        "meaning": "지표",
+        "blanks": [
+          {
+            "start": 33,
+            "end": 43
+          }
+        ],
+        "start": 33,
+        "end": 43
+      },
+      {
+        "answer": "stagnant",
+        "meaning": "침체된, 정체된",
+        "blanks": [
+          {
+            "start": 55,
+            "end": 63
+          }
+        ],
+        "start": 55,
+        "end": 63
+      }
+    ]
+  },
+  {
+    "id": "w13l2p6-95c44376e9ec",
+    "week": 13,
+    "lesson": 2,
+    "page": 6,
+    "file": "초급토익어휘_13주_2교시.pdf",
+    "sentence": "The depression resulted in high unemployment.",
+    "answer": "depression",
+    "start": 4,
+    "end": 14,
+    "meaning": "불황, 경기 침체",
+    "translation": "대공황으로인해/ 높은실업률이발생했습니다.",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 14
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "depression",
+        "meaning": "불황, 경기 침체",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 14
+          }
+        ],
+        "start": 4,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "id": "w13l2p7-6a99822c077d",
+    "week": 13,
+    "lesson": 2,
+    "page": 7,
+    "file": "초급토익어휘_13주_2교시.pdf",
+    "sentence": "The economic indicators showed signs of improvement after a long period of depression.",
+    "answer": "economic indicators … period … depression",
+    "start": 4,
+    "end": 85,
+    "meaning": "경제 지표 / 기간, 시기 / 불황, 경기 침체",
+    "translation": "경제지표가개선되는조짐을보였습니다. / 장기간의침체이후",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 23
+      },
+      {
+        "start": 65,
+        "end": 71
+      },
+      {
+        "start": 75,
+        "end": 85
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "economic indicators",
+        "meaning": "경제 지표",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 23
+          }
+        ],
+        "start": 4,
+        "end": 23
+      },
+      {
+        "answer": "period",
+        "meaning": "기간, 시기",
+        "blanks": [
+          {
+            "start": 65,
+            "end": 71
+          }
+        ],
+        "start": 65,
+        "end": 71
+      },
+      {
+        "answer": "depression",
+        "meaning": "불황, 경기 침체",
+        "blanks": [
+          {
+            "start": 75,
+            "end": 85
+          }
+        ],
+        "start": 75,
+        "end": 85
+      }
+    ]
+  },
+  {
+    "id": "w13l2p7-1192026d3eca",
+    "week": 13,
+    "lesson": 2,
+    "page": 7,
+    "file": "초급토익어휘_13주_2교시.pdf",
+    "sentence": "During an economic depression, some businesses managed to soar.",
+    "answer": "economic depression … soar",
+    "start": 10,
+    "end": 62,
+    "meaning": "경제 불황, 경기 침체 / 급등하다, 치솟다",
+    "translation": "경제불황중에/ 일부기업은급등했습니다.",
+    "blanks": [
+      {
+        "start": 10,
+        "end": 29
+      },
+      {
+        "start": 58,
+        "end": 62
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "economic depression",
+        "meaning": "경제 불황, 경기 침체",
+        "blanks": [
+          {
+            "start": 10,
+            "end": 29
+          }
+        ],
+        "start": 10,
+        "end": 29
+      },
+      {
+        "answer": "soar",
+        "meaning": "급등하다, 치솟다",
+        "blanks": [
+          {
+            "start": 58,
+            "end": 62
+          }
+        ],
+        "start": 58,
+        "end": 62
+      }
+    ]
+  },
+  {
+    "id": "w13l2p10-72e86e207eb0",
+    "week": 13,
+    "lesson": 2,
+    "page": 10,
+    "file": "초급토익어휘_13주_2교시.pdf",
+    "sentence": "The stock prices of the company fell dramatically after a disappointing earnings report.",
+    "answer": "stock … fell dramatically … earnings",
+    "start": 4,
+    "end": 80,
+    "meaning": "주식; 재고 / 급격히 하락했다 / 수익, 실적",
+    "translation": "회사의주가는급격히하락했습니다. / 실망스러운실적발표이후",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 9
+      },
+      {
+        "start": 32,
+        "end": 49
+      },
+      {
+        "start": 72,
+        "end": 80
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "stock",
+        "meaning": "주식; 재고",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 9
+          }
+        ],
+        "start": 4,
+        "end": 9
+      },
+      {
+        "answer": "fell dramatically",
+        "meaning": "급격히 하락했다",
+        "blanks": [
+          {
+            "start": 32,
+            "end": 49
+          }
+        ],
+        "start": 32,
+        "end": 49
+      },
+      {
+        "answer": "earnings",
+        "meaning": "수익, 실적",
+        "blanks": [
+          {
+            "start": 72,
+            "end": 80
+          }
+        ],
+        "start": 72,
+        "end": 80
+      }
+    ]
+  },
+  {
+    "id": "w13l2p10-a242b41535f8",
+    "week": 13,
+    "lesson": 2,
+    "page": 10,
+    "file": "초급토익어휘_13주_2교시.pdf",
+    "sentence": "Despite the challenges in the market, the technology sector experienced a brisk growth in sales.",
+    "answer": "brisk",
+    "start": 74,
+    "end": 79,
+    "meaning": "빠른, 활발한",
+    "translation": "시장의어려움에도불구하고/ 기술부문은빠르게성장했습니다. / 매출이(매출에있어서)",
+    "blanks": [
+      {
+        "start": 74,
+        "end": 79
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "brisk",
+        "meaning": "빠른, 활발한",
+        "blanks": [
+          {
+            "start": 74,
+            "end": 79
+          }
+        ],
+        "start": 74,
+        "end": 79
+      }
+    ]
+  },
+  {
+    "id": "w13l2p11-eb84f1fac90c",
+    "week": 13,
+    "lesson": 2,
+    "page": 11,
+    "file": "초급토익어휘_13주_2교시.pdf",
+    "sentence": "The housing market is experiencing a boom, with property prices rising rapidly.",
+    "answer": "property",
+    "start": 48,
+    "end": 56,
+    "meaning": "부동산, 건물",
+    "translation": "주택시장이호황을누리고있으며/ 부동산가격도급등하고있습니다.",
+    "blanks": [
+      {
+        "start": 48,
+        "end": 56
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "property",
+        "meaning": "부동산, 건물",
+        "blanks": [
+          {
+            "start": 48,
+            "end": 56
+          }
+        ],
+        "start": 48,
+        "end": 56
+      }
+    ]
+  },
+  {
+    "id": "w13l2p11-36a5d934daad",
+    "week": 13,
+    "lesson": 2,
+    "page": 11,
+    "file": "초급토익어휘_13주_2교시.pdf",
+    "sentence": "The prospect of a new partnership is expected to boost the company's growth.",
+    "answer": "prospect … boost",
+    "start": 4,
+    "end": 54,
+    "meaning": "전망, 가능성 / 촉진하다, 신장시키다",
+    "translation": "새로운파트너십의전망은예상됩니다. / 촉진할것으로/ 회사의성장을",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 12
+      },
+      {
+        "start": 49,
+        "end": 54
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "prospect",
+        "meaning": "전망, 가능성",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 12
+          }
+        ],
+        "start": 4,
+        "end": 12
+      },
+      {
+        "answer": "boost",
+        "meaning": "촉진하다, 신장시키다",
+        "blanks": [
+          {
+            "start": 49,
+            "end": 54
+          }
+        ],
+        "start": 49,
+        "end": 54
+      }
+    ]
+  },
+  {
+    "id": "w13l2p13-c76fa164a5e3",
+    "week": 13,
+    "lesson": 2,
+    "page": 13,
+    "file": "초급토익어휘_13주_2교시.pdf",
+    "sentence": "The technology industry is filled with promising opportunities for  growth.",
+    "answer": "industry … promising",
+    "start": 15,
+    "end": 48,
+    "meaning": "산업 / 유망한, 전망이 좋은",
+    "translation": "기술산업은가득차있습니다. / 유망한기회로/ 성장을위한",
+    "blanks": [
+      {
+        "start": 15,
+        "end": 23
+      },
+      {
+        "start": 39,
+        "end": 48
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "industry",
+        "meaning": "산업",
+        "blanks": [
+          {
+            "start": 15,
+            "end": 23
+          }
+        ],
+        "start": 15,
+        "end": 23
+      },
+      {
+        "answer": "promising",
+        "meaning": "유망한, 전망이 좋은",
+        "blanks": [
+          {
+            "start": 39,
+            "end": 48
+          }
+        ],
+        "start": 39,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "id": "w13l2p13-d87dca66c43a",
+    "week": 13,
+    "lesson": 2,
+    "page": 13,
+    "file": "초급토익어휘_13주_2교시.pdf",
+    "sentence": "The promising startup aims to thrive in the competitive tech industry.",
+    "answer": "promising … thrive",
+    "start": 4,
+    "end": 36,
+    "meaning": "유망한, 전망이 좋은 / 번영하다, 성공하다",
+    "translation": "유망한스타트업은목표로합니다. / 성공하는것을/ 경쟁이치열한기술산업에서",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 13
+      },
+      {
+        "start": 30,
+        "end": 36
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "promising",
+        "meaning": "유망한, 전망이 좋은",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 13
+          }
+        ],
+        "start": 4,
+        "end": 13
+      },
+      {
+        "answer": "thrive",
+        "meaning": "번영하다, 성공하다",
+        "blanks": [
+          {
+            "start": 30,
+            "end": 36
+          }
+        ],
+        "start": 30,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "id": "w13l2p14-ba0e9524f9fa",
+    "week": 13,
+    "lesson": 2,
+    "page": 14,
+    "file": "초급토익어휘_13주_2교시.pdf",
+    "sentence": "A thriving industry leads to job growth and prosperity for a region.",
+    "answer": "thriving industry … prosperity",
+    "start": 2,
+    "end": 54,
+    "meaning": "번창하는 산업 / 번영",
+    "translation": "번영하는산업은이어집니다. / 일자리성장과번영으로/ 지역의",
+    "blanks": [
+      {
+        "start": 2,
+        "end": 19
+      },
+      {
+        "start": 44,
+        "end": 54
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "thriving industry",
+        "meaning": "번창하는 산업",
+        "blanks": [
+          {
+            "start": 2,
+            "end": 19
+          }
+        ],
+        "start": 2,
+        "end": 19
+      },
+      {
+        "answer": "prosperity",
+        "meaning": "번영",
+        "blanks": [
+          {
+            "start": 44,
+            "end": 54
+          }
+        ],
+        "start": 44,
+        "end": 54
+      }
+    ]
+  },
+  {
+    "id": "w13l2p14-9b6b5041b819",
+    "week": 13,
+    "lesson": 2,
+    "page": 14,
+    "file": "초급토익어휘_13주_2교시.pdf",
+    "sentence": "In this stable economic period, many businesses are experiencing prosperity.",
+    "answer": "prosperity",
+    "start": 65,
+    "end": 75,
+    "meaning": "번영",
+    "translation": "경제가안정된시대에/ 많은기업이번영을누리고있습니다.",
+    "blanks": [
+      {
+        "start": 65,
+        "end": 75
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "prosperity",
+        "meaning": "번영",
+        "blanks": [
+          {
+            "start": 65,
+            "end": 75
+          }
+        ],
+        "start": 65,
+        "end": 75
+      }
+    ]
+  },
+  {
+    "id": "w13l2p16-79e4b032641a",
+    "week": 13,
+    "lesson": 2,
+    "page": 16,
+    "file": "초급토익어휘_13주_2교시.pdf",
+    "sentence": "The company's potential for growth dwindled due to unstable market  conditions.",
+    "answer": "potential … dwindled … unstable",
+    "start": 14,
+    "end": 59,
+    "meaning": "잠재력, 가능성 / 줄어들었다, 감소했다 / 불안정한",
+    "translation": "회사의성장잠재력이/ 감소했습니다. / 불안정한시장상황으로인해",
+    "blanks": [
+      {
+        "start": 14,
+        "end": 23
+      },
+      {
+        "start": 35,
+        "end": 43
+      },
+      {
+        "start": 51,
+        "end": 59
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "potential",
+        "meaning": "잠재력, 가능성",
+        "blanks": [
+          {
+            "start": 14,
+            "end": 23
+          }
+        ],
+        "start": 14,
+        "end": 23
+      },
+      {
+        "answer": "dwindled",
+        "meaning": "줄어들었다, 감소했다",
+        "blanks": [
+          {
+            "start": 35,
+            "end": 43
+          }
+        ],
+        "start": 35,
+        "end": 43
+      },
+      {
+        "answer": "unstable",
+        "meaning": "불안정한",
+        "blanks": [
+          {
+            "start": 51,
+            "end": 59
+          }
+        ],
+        "start": 51,
+        "end": 59
+      }
+    ]
+  },
+  {
+    "id": "w13l2p16-6ce12e7467fd",
+    "week": 13,
+    "lesson": 2,
+    "page": 16,
+    "file": "초급토익어휘_13주_2교시.pdf",
+    "sentence": "The evidence showed that the project was costly and unstable.",
+    "answer": "evidence … costly … unstable",
+    "start": 4,
+    "end": 60,
+    "meaning": "증거 / 비용이 많이 드는 / 불안정한",
+    "translation": "증거에따르면/ 이프로젝트는비용이많이들고불안정했습니다.",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 12
+      },
+      {
+        "start": 41,
+        "end": 47
+      },
+      {
+        "start": 52,
+        "end": 60
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "evidence",
+        "meaning": "증거",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 12
+          }
+        ],
+        "start": 4,
+        "end": 12
+      },
+      {
+        "answer": "costly",
+        "meaning": "비용이 많이 드는",
+        "blanks": [
+          {
+            "start": 41,
+            "end": 47
+          }
+        ],
+        "start": 41,
+        "end": 47
+      },
+      {
+        "answer": "unstable",
+        "meaning": "불안정한",
+        "blanks": [
+          {
+            "start": 52,
+            "end": 60
+          }
+        ],
+        "start": 52,
+        "end": 60
+      }
+    ]
+  },
+  {
+    "id": "w13l2p17-187f2bff4c54",
+    "week": 13,
+    "lesson": 2,
+    "page": 17,
+    "file": "초급토익어휘_13주_2교시.pdf",
+    "sentence": "The waning interest in the product led to dwindling sales.",
+    "answer": "waning … dwindling",
+    "start": 4,
+    "end": 51,
+    "meaning": "줄어드는, 약해지는 / 줄어드는, 감소하는",
+    "translation": "관심이줄어들면서/ 제품에대한/ 판매도감소했습니다.",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 10
+      },
+      {
+        "start": 42,
+        "end": 51
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "waning",
+        "meaning": "줄어드는, 약해지는",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 10
+          }
+        ],
+        "start": 4,
+        "end": 10
+      },
+      {
+        "answer": "dwindling",
+        "meaning": "줄어드는, 감소하는",
+        "blanks": [
+          {
+            "start": 42,
+            "end": 51
+          }
+        ],
+        "start": 42,
+        "end": 51
+      }
+    ]
+  },
+  {
+    "id": "w13l2p17-dba2e3fc1a0f",
+    "week": 13,
+    "lesson": 2,
+    "page": 17,
+    "file": "초급토익어휘_13주_2교시.pdf",
+    "sentence": "High employee turnover is a costly problem for the company.",
+    "answer": "turnover … costly",
+    "start": 14,
+    "end": 34,
+    "meaning": "직원 이직률 / 비용이 많이 드는",
+    "translation": "높은직원이직률은회사에/ 비용이많이드는문제입니다.",
+    "blanks": [
+      {
+        "start": 14,
+        "end": 22
+      },
+      {
+        "start": 28,
+        "end": 34
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "turnover",
+        "meaning": "직원 이직률",
+        "blanks": [
+          {
+            "start": 14,
+            "end": 22
+          }
+        ],
+        "start": 14,
+        "end": 22
+      },
+      {
+        "answer": "costly",
+        "meaning": "비용이 많이 드는",
+        "blanks": [
+          {
+            "start": 28,
+            "end": 34
+          }
+        ],
+        "start": 28,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "id": "w14l1p6-81a983aaaa0f",
+    "week": 14,
+    "lesson": 1,
+    "page": 6,
+    "file": "초급토익어휘_14주_1교시.pdf",
+    "sentence": "The famous celebrity kindly signed autographs during the intermission.",
+    "answer": "celebrity … autographs … intermission",
+    "start": 11,
+    "end": 69,
+    "meaning": "유명 인사, 연예인 / 사인, 서명 / 공연 중 휴식 시간",
+    "translation": "쉬는시간동안유명연예인이친절하게사인을해주었습니다.",
+    "blanks": [
+      {
+        "start": 11,
+        "end": 20
+      },
+      {
+        "start": 35,
+        "end": 45
+      },
+      {
+        "start": 57,
+        "end": 69
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "celebrity",
+        "meaning": "유명 인사, 연예인",
+        "blanks": [
+          {
+            "start": 11,
+            "end": 20
+          }
+        ],
+        "start": 11,
+        "end": 20
+      },
+      {
+        "answer": "autographs",
+        "meaning": "사인, 서명",
+        "blanks": [
+          {
+            "start": 35,
+            "end": 45
+          }
+        ],
+        "start": 35,
+        "end": 45
+      },
+      {
+        "answer": "intermission",
+        "meaning": "공연 중 휴식 시간",
+        "blanks": [
+          {
+            "start": 57,
+            "end": 69
+          }
+        ],
+        "start": 57,
+        "end": 69
+      }
+    ]
+  },
+  {
+    "id": "w14l1p6-d93c18177dcd",
+    "week": 14,
+    "lesson": 1,
+    "page": 6,
+    "file": "초급토익어휘_14주_1교시.pdf",
+    "sentence": "The conductor will present a symphony in the grand hall.",
+    "answer": "conductor … present",
+    "start": 4,
+    "end": 26,
+    "meaning": "지휘자 / 공연하다, 상연하다",
+    "translation": "유명한지휘자가그랜드홀에서교향곡을선보일예정입니다.",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 13
+      },
+      {
+        "start": 19,
+        "end": 26
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "conductor",
+        "meaning": "지휘자",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 13
+          }
+        ],
+        "start": 4,
+        "end": 13
+      },
+      {
+        "answer": "present",
+        "meaning": "공연하다, 상연하다",
+        "blanks": [
+          {
+            "start": 19,
+            "end": 26
+          }
+        ],
+        "start": 19,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "id": "w14l1p6-98146ee5a6bf",
+    "week": 14,
+    "lesson": 1,
+    "page": 6,
+    "file": "초급토익어휘_14주_1교시.pdf",
+    "sentence": "The talented artist's debut exhibition drew a large crowd.",
+    "answer": "artist … debut",
+    "start": 13,
+    "end": 27,
+    "meaning": "예술가, 작가 / 데뷔, 첫 등장",
+    "translation": "재능있는작가의데뷔전은많은인파를불러모았습니다.",
+    "blanks": [
+      {
+        "start": 13,
+        "end": 19
+      },
+      {
+        "start": 22,
+        "end": 27
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "artist",
+        "meaning": "예술가, 작가",
+        "blanks": [
+          {
+            "start": 13,
+            "end": 19
+          }
+        ],
+        "start": 13,
+        "end": 19
+      },
+      {
+        "answer": "debut",
+        "meaning": "데뷔, 첫 등장",
+        "blanks": [
+          {
+            "start": 22,
+            "end": 27
+          }
+        ],
+        "start": 22,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "id": "w14l1p7-9be885573c0e",
+    "week": 14,
+    "lesson": 1,
+    "page": 7,
+    "file": "초급토익어휘_14주_1교시.pdf",
+    "sentence": "The museum's admission fee includes a guided tour.",
+    "answer": "admission",
+    "start": 13,
+    "end": 22,
+    "meaning": "입장, 입장료",
+    "translation": "박물관입장료에는가이드투어가포함되어있습니다.",
+    "blanks": [
+      {
+        "start": 13,
+        "end": 22
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "admission",
+        "meaning": "입장, 입장료",
+        "blanks": [
+          {
+            "start": 13,
+            "end": 22
+          }
+        ],
+        "start": 13,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "id": "w14l1p7-cb41ba1bc83d",
+    "week": 14,
+    "lesson": 1,
+    "page": 7,
+    "file": "초급토익어휘_14주_1교시.pdf",
+    "sentence": "Jeremy’s dream is to star in a musical film someday.",
+    "answer": "star … film",
+    "start": 21,
+    "end": 43,
+    "meaning": "주연으로 출연하다 / 영화",
+    "translation": "제레미의꿈은언젠가뮤지컬영화에출연하는것입니다.",
+    "blanks": [
+      {
+        "start": 21,
+        "end": 25
+      },
+      {
+        "start": 39,
+        "end": 43
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "star",
+        "meaning": "주연으로 출연하다",
+        "blanks": [
+          {
+            "start": 21,
+            "end": 25
+          }
+        ],
+        "start": 21,
+        "end": 25
+      },
+      {
+        "answer": "film",
+        "meaning": "영화",
+        "blanks": [
+          {
+            "start": 39,
+            "end": 43
+          }
+        ],
+        "start": 39,
+        "end": 43
+      }
+    ]
+  },
+  {
+    "id": "w14l1p10-2bf0b44fc2c8",
+    "week": 14,
+    "lesson": 1,
+    "page": 10,
+    "file": "초급토익어휘_14주_1교시.pdf",
+    "sentence": "The museum's grand opening displayed a fascinating exhibit.",
+    "answer": "opening displayed … fascinating exhibit",
+    "start": 19,
+    "end": 58,
+    "meaning": "개관식에서 전시했다 / 흥미로운 전시물",
+    "translation": "박물관의개관식에는흥미로운전시물이전시되었습니다.",
+    "blanks": [
+      {
+        "start": 19,
+        "end": 36
+      },
+      {
+        "start": 39,
+        "end": 58
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "opening displayed",
+        "meaning": "개관식에서 전시했다",
+        "blanks": [
+          {
+            "start": 19,
+            "end": 36
+          }
+        ],
+        "start": 19,
+        "end": 36
+      },
+      {
+        "answer": "fascinating exhibit",
+        "meaning": "흥미로운 전시물",
+        "blanks": [
+          {
+            "start": 39,
+            "end": 58
+          }
+        ],
+        "start": 39,
+        "end": 58
+      }
+    ]
+  },
+  {
+    "id": "w14l1p10-1fbe35195698",
+    "week": 14,
+    "lesson": 1,
+    "page": 10,
+    "file": "초급토익어휘_14주_1교시.pdf",
+    "sentence": "The author's collection of authentic artifacts will be on display.",
+    "answer": "author's collection … authentic artifacts",
+    "start": 4,
+    "end": 46,
+    "meaning": "작가의 소장품 / 진품 공예품, 진품 유물",
+    "translation": "작가의진품공예품컬렉션이전시실에전시됩니다.",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 23
+      },
+      {
+        "start": 27,
+        "end": 46
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "author's collection",
+        "meaning": "작가의 소장품",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 23
+          }
+        ],
+        "start": 4,
+        "end": 23
+      },
+      {
+        "answer": "authentic artifacts",
+        "meaning": "진품 공예품, 진품 유물",
+        "blanks": [
+          {
+            "start": 27,
+            "end": 46
+          }
+        ],
+        "start": 27,
+        "end": 46
+      }
+    ]
+  },
+  {
+    "id": "w14l1p11-ff6e6275c606",
+    "week": 14,
+    "lesson": 1,
+    "page": 11,
+    "file": "초급토익어휘_14주_1교시.pdf",
+    "sentence": "The ancient statue is the centerpiece of the museum's collection.",
+    "answer": "statue … collection",
+    "start": 12,
+    "end": 64,
+    "meaning": "동상, 조각상 / 소장품, 수집품",
+    "translation": "고대동상은박물관컬렉션의핵심입니다.",
+    "blanks": [
+      {
+        "start": 12,
+        "end": 18
+      },
+      {
+        "start": 54,
+        "end": 64
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "statue",
+        "meaning": "동상, 조각상",
+        "blanks": [
+          {
+            "start": 12,
+            "end": 18
+          }
+        ],
+        "start": 12,
+        "end": 18
+      },
+      {
+        "answer": "collection",
+        "meaning": "소장품, 수집품",
+        "blanks": [
+          {
+            "start": 54,
+            "end": 64
+          }
+        ],
+        "start": 54,
+        "end": 64
+      }
+    ]
+  },
+  {
+    "id": "w14l1p11-a6954db5bd54",
+    "week": 14,
+    "lesson": 1,
+    "page": 11,
+    "file": "초급토익어휘_14주_1교시.pdf",
+    "sentence": "The museum's halls can house a vast collection of artifacts.",
+    "answer": "house … collection … artifacts",
+    "start": 23,
+    "end": 59,
+    "meaning": "소장하다, 보관하다 / 소장품, 수집품 / 공예품, 유물",
+    "translation": "박물관홀에는방대한예술품컬렉션을소장할수있습니다.",
+    "blanks": [
+      {
+        "start": 23,
+        "end": 28
+      },
+      {
+        "start": 36,
+        "end": 46
+      },
+      {
+        "start": 50,
+        "end": 59
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "house",
+        "meaning": "소장하다, 보관하다",
+        "blanks": [
+          {
+            "start": 23,
+            "end": 28
+          }
+        ],
+        "start": 23,
+        "end": 28
+      },
+      {
+        "answer": "collection",
+        "meaning": "소장품, 수집품",
+        "blanks": [
+          {
+            "start": 36,
+            "end": 46
+          }
+        ],
+        "start": 36,
+        "end": 46
+      },
+      {
+        "answer": "artifacts",
+        "meaning": "공예품, 유물",
+        "blanks": [
+          {
+            "start": 50,
+            "end": 59
+          }
+        ],
+        "start": 50,
+        "end": 59
+      }
+    ]
+  },
+  {
+    "id": "w14l1p14-a9d05291510c",
+    "week": 14,
+    "lesson": 1,
+    "page": 14,
+    "file": "초급토익어휘_14주_1교시.pdf",
+    "sentence": "The construction authority permitted the renovation of the structure.",
+    "answer": "construction authority permitted … renovation … structure",
+    "start": 4,
+    "end": 68,
+    "meaning": "건설 당국이 허가했다 / 보수 공사, 개조 / 건축물, 구조물",
+    "translation": "건설당국은허가했습니다. / 건축물의개조를",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 36
+      },
+      {
+        "start": 41,
+        "end": 51
+      },
+      {
+        "start": 59,
+        "end": 68
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "construction authority permitted",
+        "meaning": "건설 당국이 허가했다",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 36
+          }
+        ],
+        "start": 4,
+        "end": 36
+      },
+      {
+        "answer": "renovation",
+        "meaning": "보수 공사, 개조",
+        "blanks": [
+          {
+            "start": 41,
+            "end": 51
+          }
+        ],
+        "start": 41,
+        "end": 51
+      },
+      {
+        "answer": "structure",
+        "meaning": "건축물, 구조물",
+        "blanks": [
+          {
+            "start": 59,
+            "end": 68
+          }
+        ],
+        "start": 59,
+        "end": 68
+      }
+    ]
+  },
+  {
+    "id": "w14l1p14-7d5f7cfb1357",
+    "week": 14,
+    "lesson": 1,
+    "page": 14,
+    "file": "초급토익어휘_14주_1교시.pdf",
+    "sentence": "The facility's power supply was interrupted during the construction.",
+    "answer": "facility … power supply … construction",
+    "start": 4,
+    "end": 67,
+    "meaning": "시설 / 전력 공급 / 건설, 공사",
+    "translation": "해당시설의전력공급이중단되었습니다. / 건설동안",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 12
+      },
+      {
+        "start": 15,
+        "end": 27
+      },
+      {
+        "start": 55,
+        "end": 67
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "facility",
+        "meaning": "시설",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 12
+          }
+        ],
+        "start": 4,
+        "end": 12
+      },
+      {
+        "answer": "power supply",
+        "meaning": "전력 공급",
+        "blanks": [
+          {
+            "start": 15,
+            "end": 27
+          }
+        ],
+        "start": 15,
+        "end": 27
+      },
+      {
+        "answer": "construction",
+        "meaning": "건설, 공사",
+        "blanks": [
+          {
+            "start": 55,
+            "end": 67
+          }
+        ],
+        "start": 55,
+        "end": 67
+      }
+    ]
+  },
+  {
+    "id": "w14l1p17-62f89df17d62",
+    "week": 14,
+    "lesson": 1,
+    "page": 17,
+    "file": "초급토익어휘_14주_1교시.pdf",
+    "sentence": "The inspector approved the installation of new equipment at the site.",
+    "answer": "inspector … installation … equipment … site",
+    "start": 4,
+    "end": 68,
+    "meaning": "검사관 / 설치 / 장비 / 현장, 부지",
+    "translation": "검사관은현장에새장비설치를승인했습니다.",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 13
+      },
+      {
+        "start": 27,
+        "end": 39
+      },
+      {
+        "start": 47,
+        "end": 56
+      },
+      {
+        "start": 64,
+        "end": 68
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "inspector",
+        "meaning": "검사관",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 13
+          }
+        ],
+        "start": 4,
+        "end": 13
+      },
+      {
+        "answer": "installation",
+        "meaning": "설치",
+        "blanks": [
+          {
+            "start": 27,
+            "end": 39
+          }
+        ],
+        "start": 27,
+        "end": 39
+      },
+      {
+        "answer": "equipment",
+        "meaning": "장비",
+        "blanks": [
+          {
+            "start": 47,
+            "end": 56
+          }
+        ],
+        "start": 47,
+        "end": 56
+      },
+      {
+        "answer": "site",
+        "meaning": "현장, 부지",
+        "blanks": [
+          {
+            "start": 64,
+            "end": 68
+          }
+        ],
+        "start": 64,
+        "end": 68
+      }
+    ]
+  },
+  {
+    "id": "w14l1p17-5b09f863c9e7",
+    "week": 14,
+    "lesson": 1,
+    "page": 17,
+    "file": "초급토익어휘_14주_1교시.pdf",
+    "sentence": "The tenant signed a lease agreement to occupy the space.",
+    "answer": "tenant … lease … occupy",
+    "start": 4,
+    "end": 45,
+    "meaning": "세입자, 임차인 / 임대, 임대차 계약 / 차지하다, 사용하다",
+    "translation": "임차인은임대계약을체결했습니다. / 해당공간을사용하기로",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 10
+      },
+      {
+        "start": 20,
+        "end": 25
+      },
+      {
+        "start": 39,
+        "end": 45
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "tenant",
+        "meaning": "세입자, 임차인",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 10
+          }
+        ],
+        "start": 4,
+        "end": 10
+      },
+      {
+        "answer": "lease",
+        "meaning": "임대, 임대차 계약",
+        "blanks": [
+          {
+            "start": 20,
+            "end": 25
+          }
+        ],
+        "start": 20,
+        "end": 25
+      },
+      {
+        "answer": "occupy",
+        "meaning": "차지하다, 사용하다",
+        "blanks": [
+          {
+            "start": 39,
+            "end": 45
+          }
+        ],
+        "start": 39,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "id": "w14l1p18-08247ccd1427",
+    "week": 14,
+    "lesson": 1,
+    "page": 18,
+    "file": "초급토익어휘_14주_1교시.pdf",
+    "sentence": "The laboratory is equipped with state-of-the-art research tools.",
+    "answer": "is equipped with",
+    "start": 15,
+    "end": 31,
+    "meaning": "~을 갖추고 있다",
+    "translation": "연구실에는최첨단연구장비가갖추어져있습니다.",
+    "blanks": [
+      {
+        "start": 15,
+        "end": 31
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "is equipped with",
+        "meaning": "~을 갖추고 있다",
+        "blanks": [
+          {
+            "start": 15,
+            "end": 31
+          }
+        ],
+        "start": 15,
+        "end": 31
+      }
+    ]
+  },
+  {
+    "id": "w14l1p18-01b7c3ed7be2",
+    "week": 14,
+    "lesson": 1,
+    "page": 18,
+    "file": "초급토익어휘_14주_1교시.pdf",
+    "sentence": "The east wing of the building houses constructional equipment.",
+    "answer": "wing … houses … equipment",
+    "start": 9,
+    "end": 61,
+    "meaning": "건물의 동, 건물의 날개 부분 / 소장한다, 보관한다 / 장비",
+    "translation": "건물의동쪽건물에는건설장비를보관하고있습니다.",
+    "blanks": [
+      {
+        "start": 9,
+        "end": 13
+      },
+      {
+        "start": 30,
+        "end": 36
+      },
+      {
+        "start": 52,
+        "end": 61
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "wing",
+        "meaning": "건물의 동, 건물의 날개 부분",
+        "blanks": [
+          {
+            "start": 9,
+            "end": 13
+          }
+        ],
+        "start": 9,
+        "end": 13
+      },
+      {
+        "answer": "houses",
+        "meaning": "소장한다, 보관한다",
+        "blanks": [
+          {
+            "start": 30,
+            "end": 36
+          }
+        ],
+        "start": 30,
+        "end": 36
+      },
+      {
+        "answer": "equipment",
+        "meaning": "장비",
+        "blanks": [
+          {
+            "start": 52,
+            "end": 61
+          }
+        ],
+        "start": 52,
+        "end": 61
+      }
+    ]
+  },
+  {
+    "id": "w14l2p6-0c1fe7a4575a",
+    "week": 14,
+    "lesson": 2,
+    "page": 6,
+    "file": "초급토익어휘_14주_2교시.pdf",
+    "sentence": "Proper waste disposal helps environmental conservation.",
+    "answer": "waste disposal … conservation",
+    "start": 7,
+    "end": 54,
+    "meaning": "폐기물 처리 / 보존, 보호",
+    "translation": "올바른폐기물처리는도움이됩니다. / 환경보존에",
+    "blanks": [
+      {
+        "start": 7,
+        "end": 21
+      },
+      {
+        "start": 42,
+        "end": 54
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "waste disposal",
+        "meaning": "폐기물 처리",
+        "blanks": [
+          {
+            "start": 7,
+            "end": 21
+          }
+        ],
+        "start": 7,
+        "end": 21
+      },
+      {
+        "answer": "conservation",
+        "meaning": "보존, 보호",
+        "blanks": [
+          {
+            "start": 42,
+            "end": 54
+          }
+        ],
+        "start": 42,
+        "end": 54
+      }
+    ]
+  },
+  {
+    "id": "w14l2p6-99a01a2544d3",
+    "week": 14,
+    "lesson": 2,
+    "page": 6,
+    "file": "초급토익어휘_14주_2교시.pdf",
+    "sentence": "We should all make an effort to preserve our natural resources.",
+    "answer": "preserve … resources",
+    "start": 32,
+    "end": 62,
+    "meaning": "보존하다, 보호하다 / 자원",
+    "translation": "우리모두는노력해야합니다. / 천연자원을보존하기위해",
+    "blanks": [
+      {
+        "start": 32,
+        "end": 40
+      },
+      {
+        "start": 53,
+        "end": 62
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "preserve",
+        "meaning": "보존하다, 보호하다",
+        "blanks": [
+          {
+            "start": 32,
+            "end": 40
+          }
+        ],
+        "start": 32,
+        "end": 40
+      },
+      {
+        "answer": "resources",
+        "meaning": "자원",
+        "blanks": [
+          {
+            "start": 53,
+            "end": 62
+          }
+        ],
+        "start": 53,
+        "end": 62
+      }
+    ]
+  },
+  {
+    "id": "w14l2p6-96975aca3cc3",
+    "week": 14,
+    "lesson": 2,
+    "page": 6,
+    "file": "초급토익어휘_14주_2교시.pdf",
+    "sentence": "Harmful emissions can contaminate the air we breathe.",
+    "answer": "emissions … contaminate",
+    "start": 8,
+    "end": 33,
+    "meaning": "배출물, 배기가스 / 오염시키다",
+    "translation": "유해한배출물은공기를오염시킬수있습니다. / 우리가숨쉬는",
+    "blanks": [
+      {
+        "start": 8,
+        "end": 17
+      },
+      {
+        "start": 22,
+        "end": 33
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "emissions",
+        "meaning": "배출물, 배기가스",
+        "blanks": [
+          {
+            "start": 8,
+            "end": 17
+          }
+        ],
+        "start": 8,
+        "end": 17
+      },
+      {
+        "answer": "contaminate",
+        "meaning": "오염시키다",
+        "blanks": [
+          {
+            "start": 22,
+            "end": 33
+          }
+        ],
+        "start": 22,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "id": "w14l2p7-a60408712c44",
+    "week": 14,
+    "lesson": 2,
+    "page": 7,
+    "file": "초급토익어휘_14주_2교시.pdf",
+    "sentence": "Recycling is an effective way to reduce waste and protect the environment.",
+    "answer": "Recycling … waste … environment",
+    "start": 0,
+    "end": 73,
+    "meaning": "재활용 / 폐기물, 쓰레기 / 환경",
+    "translation": "재활용은효과적인방법입니다. / 폐기물을줄이고환경을보호하는",
+    "blanks": [
+      {
+        "start": 0,
+        "end": 9
+      },
+      {
+        "start": 40,
+        "end": 45
+      },
+      {
+        "start": 62,
+        "end": 73
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "Recycling",
+        "meaning": "재활용",
+        "blanks": [
+          {
+            "start": 0,
+            "end": 9
+          }
+        ],
+        "start": 0,
+        "end": 9
+      },
+      {
+        "answer": "waste",
+        "meaning": "폐기물, 쓰레기",
+        "blanks": [
+          {
+            "start": 40,
+            "end": 45
+          }
+        ],
+        "start": 40,
+        "end": 45
+      },
+      {
+        "answer": "environment",
+        "meaning": "환경",
+        "blanks": [
+          {
+            "start": 62,
+            "end": 73
+          }
+        ],
+        "start": 62,
+        "end": 73
+      }
+    ]
+  },
+  {
+    "id": "w14l2p7-7cadf52539c0",
+    "week": 14,
+    "lesson": 2,
+    "page": 7,
+    "file": "초급토익어휘_14주_2교시.pdf",
+    "sentence": "Pollution can cause serious damage to our planet's ecosystems.",
+    "answer": "Pollution … damage … ecosystems",
+    "start": 0,
+    "end": 61,
+    "meaning": "오염 / 손상, 피해 / 생태계",
+    "translation": "오염은심각한피해를줄수있습니다. / 지구의생태계에",
+    "blanks": [
+      {
+        "start": 0,
+        "end": 9
+      },
+      {
+        "start": 28,
+        "end": 34
+      },
+      {
+        "start": 51,
+        "end": 61
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "Pollution",
+        "meaning": "오염",
+        "blanks": [
+          {
+            "start": 0,
+            "end": 9
+          }
+        ],
+        "start": 0,
+        "end": 9
+      },
+      {
+        "answer": "damage",
+        "meaning": "손상, 피해",
+        "blanks": [
+          {
+            "start": 28,
+            "end": 34
+          }
+        ],
+        "start": 28,
+        "end": 34
+      },
+      {
+        "answer": "ecosystems",
+        "meaning": "생태계",
+        "blanks": [
+          {
+            "start": 51,
+            "end": 61
+          }
+        ],
+        "start": 51,
+        "end": 61
+      }
+    ]
+  },
+  {
+    "id": "w14l2p9-2ac4555a8fc0",
+    "week": 14,
+    "lesson": 2,
+    "page": 9,
+    "file": "초급토익어휘_14주_2교시.pdf",
+    "sentence": "Heavy rainfall can result in flooding, damaging bridges and fields.",
+    "answer": "flooding … damaging",
+    "start": 29,
+    "end": 47,
+    "meaning": "홍수, 범람 / 손상시키는",
+    "translation": "폭우로인해홍수가발생하고/ 교량과들판이손상될수있습니다.",
+    "blanks": [
+      {
+        "start": 29,
+        "end": 37
+      },
+      {
+        "start": 39,
+        "end": 47
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "flooding",
+        "meaning": "홍수, 범람",
+        "blanks": [
+          {
+            "start": 29,
+            "end": 37
+          }
+        ],
+        "start": 29,
+        "end": 37
+      },
+      {
+        "answer": "damaging",
+        "meaning": "손상시키는",
+        "blanks": [
+          {
+            "start": 39,
+            "end": 47
+          }
+        ],
+        "start": 39,
+        "end": 47
+      }
+    ]
+  },
+  {
+    "id": "w14l2p9-07c88a771305",
+    "week": 14,
+    "lesson": 2,
+    "page": 9,
+    "file": "초급토익어휘_14주_2교시.pdf",
+    "sentence": "Climate change has led to more frequent droughts in many regions.",
+    "answer": "droughts",
+    "start": 40,
+    "end": 48,
+    "meaning": "가뭄",
+    "translation": "기후변화로인해더빈번하고심각한가뭄이발생했습니다. / 많은지역에서",
+    "blanks": [
+      {
+        "start": 40,
+        "end": 48
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "droughts",
+        "meaning": "가뭄",
+        "blanks": [
+          {
+            "start": 40,
+            "end": 48
+          }
+        ],
+        "start": 40,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "id": "w14l2p9-45d1c15f8cdd",
+    "week": 14,
+    "lesson": 2,
+    "page": 9,
+    "file": "초급토익어휘_14주_2교시.pdf",
+    "sentence": "The extinction of certain animals could affect the entire ecosystem.",
+    "answer": "extinction",
+    "start": 4,
+    "end": 14,
+    "meaning": "멸종",
+    "translation": "특정동물의멸종은/ 영향을미칠수있습니다. / 전체생태계에",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 14
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "extinction",
+        "meaning": "멸종",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 14
+          }
+        ],
+        "start": 4,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "id": "w14l2p12-7302716aa014",
+    "week": 14,
+    "lesson": 2,
+    "page": 12,
+    "file": "초급토익어휘_14주_2교시.pdf",
+    "sentence": "If you're feeling unusual fatigue, consider scheduling an examination.",
+    "answer": "fatigue … examination",
+    "start": 26,
+    "end": 69,
+    "meaning": "피로 / 검사, 진찰",
+    "translation": "비정상적인피로감을느끼면/ 검사예약을고려하십시오.",
+    "blanks": [
+      {
+        "start": 26,
+        "end": 33
+      },
+      {
+        "start": 58,
+        "end": 69
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "fatigue",
+        "meaning": "피로",
+        "blanks": [
+          {
+            "start": 26,
+            "end": 33
+          }
+        ],
+        "start": 26,
+        "end": 33
+      },
+      {
+        "answer": "examination",
+        "meaning": "검사, 진찰",
+        "blanks": [
+          {
+            "start": 58,
+            "end": 69
+          }
+        ],
+        "start": 58,
+        "end": 69
+      }
+    ]
+  },
+  {
+    "id": "w14l2p12-7beb86b9a5bc",
+    "week": 14,
+    "lesson": 2,
+    "page": 12,
+    "file": "초급토익어휘_14주_2교시.pdf",
+    "sentence": "I have an appointment with the doctor for a routine checkup.",
+    "answer": "appointment … checkup",
+    "start": 10,
+    "end": 59,
+    "meaning": "예약, 약속 / 건강 검진",
+    "translation": "의사와약속이있습니다. / 정기검진을위한",
+    "blanks": [
+      {
+        "start": 10,
+        "end": 21
+      },
+      {
+        "start": 52,
+        "end": 59
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "appointment",
+        "meaning": "예약, 약속",
+        "blanks": [
+          {
+            "start": 10,
+            "end": 21
+          }
+        ],
+        "start": 10,
+        "end": 21
+      },
+      {
+        "answer": "checkup",
+        "meaning": "건강 검진",
+        "blanks": [
+          {
+            "start": 52,
+            "end": 59
+          }
+        ],
+        "start": 52,
+        "end": 59
+      }
+    ]
+  },
+  {
+    "id": "w14l2p12-eeb0361f96a6",
+    "week": 14,
+    "lesson": 2,
+    "page": 12,
+    "file": "초급토익어휘_14주_2교시.pdf",
+    "sentence": "The doctor prescribed a specific dietary plan for the patient.",
+    "answer": "prescribed … dietary",
+    "start": 11,
+    "end": 40,
+    "meaning": "처방했다 / 식사의, 식이 요법의",
+    "translation": "의사는구체적인식이요법을처방했습니다. / 환자를위한",
+    "blanks": [
+      {
+        "start": 11,
+        "end": 21
+      },
+      {
+        "start": 33,
+        "end": 40
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "prescribed",
+        "meaning": "처방했다",
+        "blanks": [
+          {
+            "start": 11,
+            "end": 21
+          }
+        ],
+        "start": 11,
+        "end": 21
+      },
+      {
+        "answer": "dietary",
+        "meaning": "식사의, 식이 요법의",
+        "blanks": [
+          {
+            "start": 33,
+            "end": 40
+          }
+        ],
+        "start": 33,
+        "end": 40
+      }
+    ]
+  },
+  {
+    "id": "w14l2p15-2d8f0a832475",
+    "week": 14,
+    "lesson": 2,
+    "page": 15,
+    "file": "초급토익어휘_14주_2교시.pdf",
+    "sentence": "Nutrition plays a crucial role in the prevention of various health issues.",
+    "answer": "Nutrition … prevention",
+    "start": 0,
+    "end": 48,
+    "meaning": "영양 / 예방",
+    "translation": "영양은중요한역할을합니다. / 다양한건강문제를예방하는데에",
+    "blanks": [
+      {
+        "start": 0,
+        "end": 9
+      },
+      {
+        "start": 38,
+        "end": 48
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "Nutrition",
+        "meaning": "영양",
+        "blanks": [
+          {
+            "start": 0,
+            "end": 9
+          }
+        ],
+        "start": 0,
+        "end": 9
+      },
+      {
+        "answer": "prevention",
+        "meaning": "예방",
+        "blanks": [
+          {
+            "start": 38,
+            "end": 48
+          }
+        ],
+        "start": 38,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "id": "w14l2p15-b71843cdac97",
+    "week": 14,
+    "lesson": 2,
+    "page": 15,
+    "file": "초급토익어휘_14주_2교시.pdf",
+    "sentence": "The health insurance coverage includes medical treatments.",
+    "answer": "health insurance coverage … treatments",
+    "start": 4,
+    "end": 57,
+    "meaning": "건강 보험 보장 범위 / 치료, 처치",
+    "translation": "건강보험에는의학적치료가포함됩니다.",
+    "blanks": [
+      {
+        "start": 4,
+        "end": 29
+      },
+      {
+        "start": 47,
+        "end": 57
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "health insurance coverage",
+        "meaning": "건강 보험 보장 범위",
+        "blanks": [
+          {
+            "start": 4,
+            "end": 29
+          }
+        ],
+        "start": 4,
+        "end": 29
+      },
+      {
+        "answer": "treatments",
+        "meaning": "치료, 처치",
+        "blanks": [
+          {
+            "start": 47,
+            "end": 57
+          }
+        ],
+        "start": 47,
+        "end": 57
+      }
+    ]
+  },
+  {
+    "id": "w14l2p15-d89ec68c9bd0",
+    "week": 14,
+    "lesson": 2,
+    "page": 15,
+    "file": "초급토익어휘_14주_2교시.pdf",
+    "sentence": "The doctor prescribed medication to relieve the pain caused by the injury.",
+    "answer": "prescribed medication … relieve … pain",
+    "start": 11,
+    "end": 52,
+    "meaning": "약을 처방했다 / 완화하다, 덜어 주다 / 통증",
+    "translation": "의사는약을처방했습니다. / 통증을완화하기위해/ 부상으로인한",
+    "blanks": [
+      {
+        "start": 11,
+        "end": 32
+      },
+      {
+        "start": 36,
+        "end": 43
+      },
+      {
+        "start": 48,
+        "end": 52
+      }
+    ],
+    "translationSource": "PDF 수록 해석",
+    "targets": [
+      {
+        "answer": "prescribed medication",
+        "meaning": "약을 처방했다",
+        "blanks": [
+          {
+            "start": 11,
+            "end": 32
+          }
+        ],
+        "start": 11,
+        "end": 32
+      },
+      {
+        "answer": "relieve",
+        "meaning": "완화하다, 덜어 주다",
+        "blanks": [
+          {
+            "start": 36,
+            "end": 43
+          }
+        ],
+        "start": 36,
+        "end": 43
+      },
+      {
+        "answer": "pain",
+        "meaning": "통증",
+        "blanks": [
+          {
+            "start": 48,
+            "end": 52
+          }
+        ],
+        "start": 48,
+        "end": 52
+      }
+    ]
   }
 ]

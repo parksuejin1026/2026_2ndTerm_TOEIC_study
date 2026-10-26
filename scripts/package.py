@@ -11,10 +11,10 @@ for q in qs:
  assert ' … '.join(q['sentence'][b['start']:b['end']] for b in blanks)==q['answer'],q
  assert q['translation'] and q['meaning'],q
  assert (root/q['file']).is_file()
- assert q['week'] in range(2,8)
+ assert q['week'] in (*range(2,8), *range(9,15))
  assert q['week']!=2 or (q['lesson']==1 and q['page'] in range(5,14))
 rows=['# PDF 학습 범위 대조표','',f'예문 {len(set(q["sentence"] for q in qs))}개 · {len(qs)}문항. 예문 하나당 한 문제로 모든 출제 표현을 함께 비웁니다. 문장에 뜻을 알려준 설명용 단어는 제외합니다. 아래 … 표시는 사이의 문장을 남기는 분리 빈칸입니다.','', '| 주차 | 예문 | 문항 |','|---|---:|---:|']
-for w in range(2,8):
+for w in sorted({q['week'] for q in qs}):
  a=[q for q in qs if q['week']==w]
  rows.append(f'| {w} | {len(set(q["sentence"] for q in a))} | {len(a)} |')
 for file in dict.fromkeys(q['file'] for q in qs):

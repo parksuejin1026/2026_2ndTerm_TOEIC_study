@@ -43,6 +43,9 @@ for q in qs:
 assert not missing,missing
 for q in qs:
  if q['answer']=='addressed':q['meaning']='주소를 적었다' if 'envelope' in q['sentence'] else '연설했다'
+ if q['answer']=='return':q['meaning']='반품하다' if q['week']==9 else '투자 수익, 수익률'
+ if q['answer']=='turnover':q['meaning']='직원 이직률' if 'employee' in q['sentence'] else '매출액'
+ if q['answer']=='apply for' and 'visa' in q['sentence']:q['meaning']='~을 신청하다'
 qs=combine_sentence_questions(qs)
 (root/'questions.json').write_text(json.dumps(qs,ensure_ascii=False,indent=2),encoding='utf-8')
 (root/'questions.js').write_text('window.QUESTIONS = '+json.dumps(qs,ensure_ascii=False)+';',encoding='utf-8')

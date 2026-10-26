@@ -1,15 +1,22 @@
 """Browser regressions: python scripts/check_app.py (requires Playwright + Chrome)."""
 import json
+import re
 import sys
+from collections import Counter
 from pathlib import Path
+from urllib.parse import unquote
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / '.tools'))
 from playwright.sync_api import sync_playwright
+import pymupdf
 
 questions = json.loads((ROOT / 'questions.json').read_text(encoding='utf-8'))
+expected_counts = {2: 35, 3: 69, 4: 28, 5: 40, 6: 33, 7: 31,
+                   9: 29, 10: 32, 11: 26, 12: 27, 13: 30, 14: 29}
 assert len({q['id'] for q in questions}) == len(questions)
-assert len(questions) == len({q['sentence'] for q in questions}) == 236
+assert len(questions) == len({q['sentence'] for q in questions}) == sum(expected_counts.values())
+assert Counter(q['week'] for q in questions) == expected_counts
 assert len([q for q in questions if q['week'] == 3]) == 69
 occur = [q for q in questions if 'occur unexpectedly' in q['sentence']]
 assert len(occur) == 1 and occur[0]['answer'] == 'occur'
@@ -21,6 +28,28 @@ for q in questions:
 for expression in ['kept … from', 'prevent … from', 'inform … of', 'notify … of', 'provide … with', 'is … equipped with']:
     assert any(q['answer'] == expression and len(q['blanks']) == 2 for q in questions), expression
 
+# New questions must have an actual example and translation on the cited page.
+normalize = lambda text: re.sub(r'\s+', ' ', text).strip()
+for week in range(9, 15):
+    assert {q['lesson'] for q in questions if q['week'] == week} == {1, 2}
+for filename in {q['file'] for q in questions if q['week'] >= 9}:
+    with pymupdf.open(ROOT / filename) as document:
+        for q in (q for q in questions if q['file'] == filename):
+            source = normalize(document[q['page'] - 1].get_text())
+            assert '기본단어다지기' in source and '예문' in source and '문맥' not in source
+            assert normalize(q['sentence']) in source, q['id']
+            assert normalize(q['translation']) in source, q['id']
+            assert q['translationSource'] == 'PDF 수록 해석'
+for week, expression, meaning in [(9, 'return', '반품하다'),
+                                   (13, 'return', '투자 수익, 수익률'),
+                                   (12, 'turnover', '매출액'),
+                                   (13, 'turnover', '직원 이직률'),
+                                   (11, 'apply for', '~을 신청하다')]:
+    assert any(t['answer'] == expression and t['meaning'] == meaning
+               for q in questions if q['week'] == week for t in q['targets'])
+assert any(t['answer'] == 'made … withdrawal' and len(t['blanks']) == 2
+           for q in questions if q['week'] == 12 for t in q['targets'])
+
 (ROOT / '.qa').mkdir(exist_ok=True)
 with sync_playwright() as p:
     browser = p.chromium.launch(channel='chrome', headless=True)
@@ -31,7 +60,9 @@ with sync_playwright() as p:
     page.goto((ROOT / 'index.html').as_uri())
     page.evaluate('localStorage.clear()')
     page.reload()
-    assert page.locator('#weeks button').count() == 6
+    assert page.locator('#weeks button').count() == len(expected_counts)
+    assert page.locator('#weeks h3').all_text_contents() == [f'{week}주차' for week in expected_counts]
+    assert page.locator('#total').inner_text() == str(len(questions))
     # Every example has four combinations with the same number of blank slots.
     assert page.evaluate("""QUESTIONS.every(q=>{
       const options=optionsFor(q);
@@ -137,6 +168,30 @@ with sync_playwright() as p:
     page.set_viewport_size({'width': 390, 'height': 844})
     page.screenshot(path=str(ROOT / '.qa' / 'feedback-mobile.png'), full_page=True)
     assert page.evaluate('document.documentElement.scrollWidth<=innerWidth')
+    # Each added week supports answers, PDF links, notes, and reloading on mobile.
+    for week in range(9, 15):
+        page.locator('#exit').click()
+        page.locator('#weeks button').filter(has_text=f'{week}주차').click()
+        assert page.evaluate('session.questions.length') == expected_counts[week]
+        assert page.evaluate('(week)=>session.questions.every(q=>q.week===week)', week)
+        page.evaluate('position=session.questions.findIndex(q=>q.blanks.length>1);save();render()')
+        current = page.evaluate('session.questions[position]')
+        assert page.locator('#sentence .blank').count() == len(current['blanks'])
+        page.evaluate('answer(session.questions[position],session.questions[position].answer)')
+        assert page.locator('.option-meanings li').count() == 4
+        assert current['translation'] in page.locator('#feedback').inner_text()
+        assert unquote(page.locator('#feedback a').get_attribute('href')) == f"{current['file']}#page={current['page']}"
+        page.locator('#note').click()
+        page.locator('#note-text').fill(f'{week}주차 복습 메모')
+        page.locator('#note-close').click()
+        saved_options = page.locator('#options').inner_text()
+        page.reload()
+        assert page.evaluate('session.questions[position].id') == current['id']
+        assert page.locator('#options').inner_text() == saved_options
+        assert page.locator('#options button.correct').count() == 1
+        assert page.evaluate('(id)=>record(id).note', current['id']) == f'{week}주차 복습 메모'
+        assert page.evaluate('document.documentElement.scrollWidth<=innerWidth')
+    page.screenshot(path=str(ROOT / '.qa' / 'week14-mobile.png'), full_page=True)
     # Mastery only excludes ordinary study; even full mastery permits an exam
     # and reviewing its missed/unanswered questions.
     page.locator('#exit').click()
