@@ -1,10 +1,12 @@
 # 토익 어휘 스터디
 
+2026년 2학기 초급토익어휘 수업 자료를 바탕으로 만든 어휘 학습·시험 대비 과제입니다.
+
 `index.html`을 브라우저로 열면 실행됩니다. 앱 실행에는 설치, 빌드, 서버, 외부 라이브러리가 필요 없습니다. PDF와 학습 데이터가 함께 있어야 출처 링크가 작동합니다.
 
 ## GitHub Pages
 
-배포 주소: https://parksuejin1026.github.io/study/
+배포 주소: https://parksuejin1026.github.io/2026_2ndTerm_TOEIC_study/
 
 이 폴더의 `index.html`, `style.css`, `app.js`, `questions.js`, `.nojekyll`과 원본 PDF들을 저장소 루트에 올립니다. 저장소 Settings → Pages에서 Deploy from a branch를 선택하고 `main` 브랜치의 `/ (root)`를 지정합니다. 저장소 이름이 붙는 하위 경로에서도 동작합니다.
 
